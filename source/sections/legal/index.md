@@ -264,7 +264,10 @@ In addition to the General Terms and Conditions, your use of the Catalyze Manage
 ##2	Encryption
 All MIS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here](https://catalyze.io/policy/#data-integrity-policy).
 
-*Last updated: 20th September, 2014*
+##3 Term
+The term of the Subscription Agreement for all MIS customers shall be twelve (12) months and payable monthly from the Service Order Effective Date. Following the initial term, the Service Order shall automatically renew for an additional 12 months at the prices then in effect for Services unless either party provides sixty (60) days’ prior written notice of its intent not to renew prior to the expiration of the then current term. Provider may terminate this Service Order in accordance with the Subscription Agreement.
+
+*Last updated: 1st May, 2015*
 
 
 
