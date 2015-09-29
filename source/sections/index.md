@@ -315,17 +315,17 @@ For each calendar month in which Catalyze has Uptime of:
 Customer shall not exercise the rights in this Section 3.3 without a reasonable basis or belief that the applicable Service Availability commitment was not satisfied. If Customer believes that Catalyze has failed to achieve an Uptime commitment in any given month, Catalyze shall, promptly following Customer’s request, promptly provide a report that contains true and correct information detailing Catalyze’s actual Service Availability performance. THIS SECTION 3.3 SETS FORTH CUSTOMER’S SOLE AND EXCLUSIVE REMEDY, AND Catalyze’S ENTIRE LIABILITY, SOLELY FOR ANY FAILURE TO MEET THE SERVICE AVAILABILITY COMMITMENT.
 
 
-##4.	ERROR CORRECTIONS AND UPDATES
+##4. Errors Corrections and Updates
 
 
-###4.1	Definitions
+##4.1	Definitions
 
 
 **4.1.1**	“**Error**” means a failure of the Platform, including without limitation a failure to conform to the documentation, resulting in the inability to use, or material restriction in the use of, the Platform.
 
 **4.1.2**	“**Update**” means either a Hosting Service modification or addition that, when made or added to the Hosting Service, corrects the Error, or a procedure or routine that, when observed in the regular operation of the Product, eliminates the practical adverse effect of the Error.
 
-###4.2	Updates
+##4.2	Updates
 
 Catalyze makes commercially reasonable efforts to provide an Update designed to solve or by-pass a reported Error. Catalyze shall reasonably determine the priority level of Errors, pursuant to the following protocols and take the following actions during the Customer’s Support Center Hours.
 
