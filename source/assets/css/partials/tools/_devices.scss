@@ -1,4 +1,5 @@
 @media handheld, only screen and (max-width: 1160px){
+	.search-results,
 	.content{margin-left: 27%;}
 	.sub-header{a.up-next{margin-left: 85px;}}
 }
@@ -11,7 +12,7 @@
 	.main-header{padding: 46px 15px 15px 15px;}
 	.menu{
 		width: 220px;
-		top: 36px;
+		top: 31px;
 		background-color: #fff;
 		z-index: 99;
 		left: -220px;
@@ -23,6 +24,7 @@
 			span.hide-menu{display: none;}
 		}
 	}
+	.search-results{margin-left: 20px;}
 	.content{margin-left: auto;padding-left: 20px;}
 	.sub-header{a.up-next{margin-left: 10px;}}
 }

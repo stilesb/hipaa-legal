@@ -104,7 +104,6 @@ body{margin: 5px 0px 0px 0px;}
 		a.cta{
 			padding: 10px;
 			color: $c_brand;
-			// background-color: $c_good;
 			border: 1px solid $c_brand;
 			@include border-radius(5px);
 			@include easing(350ms);
@@ -225,7 +224,7 @@ body{margin: 5px 0px 0px 0px;}
 		position: fixed;
 		font-size: 14px;
 		z-index: 3;
-		top: 10px;
+		top: 0px;
 		left: 0px;
 		right: 0px;
 		width: 100%;
@@ -235,16 +234,15 @@ body{margin: 5px 0px 0px 0px;}
 		cursor: pointer;
 		left: 0px;
 		span.show-menu{
-			color: $c_brand;
-			border-bottom: 1px solid $c_border;
+			color: #fff;
+			background-color: $c_brand;
 			padding: 8px;
 			position: fixed;
-			top: 5px;
+			top: 0px;
 			text-align: center;
 			left: 0px;
 			right: 0px;
 			width: 100%;
-			background-color: #fff;
 		}
 		span.hide-menu{
 			@extend span.show-menu;
