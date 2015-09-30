@@ -1,12 +1,12 @@
-#General Terms and Conditions
+# General Terms and Conditions
 
-##1. The Subscription Agreement
+## 1. The Subscription Agreement
 
 The Subscription Agreement references and fully incorporates the following documents:: (i) the Service Order that describes the Services the Customer is buying, along with related fees; (ii) these General Terms and Conditions containing the general terms and conditions applicable to all Services, (iii) the specific Product Terms and Conditions containing the additional terms for the particular Catalyze Services Customer is buying, and (iv) the Acceptable Use Policy. The term "Subscription Agreement" or "Agreement" in any of these documents refers to collectively to all of the documents outlines above.
 
 The Agreement is effective as of the time that Customer signs the form of Agreement prepared by Catalyze, or accepts the Agreement as part of Catalyze’s online order process and registration.  This Agreement’s terms may only be modified in writing where the Service Order specifically states the specific section, or term of this Agreement that is being modified.
 
-##2. Defined Terms
+## 2. Defined Terms
 
  “**Catalyze Materials**" means all command line tools, devices, documents, data, know-how, methods, processes, sample code, software, software libraries, and other inventions, works, technologies and materials, including any and all Service software, computer hardware, programs, reports and specifications, WDSLs, client software and deliverables provided or used by Catalyze in connection with performing the Services, in each case developed or acquired by Catalyze independently of this Agreement.
 
@@ -23,24 +23,24 @@ The Agreement is effective as of the time that Customer signs the form of Agreem
 
  “**Professional Services**” means those ancillary services provided by Provider in connection with the delivery of Services to the Customer but invoiced as a separate line item from the Services itself such as, by way of example, set up, implementation, training, customization and other professional services.
 
-##3.	Reservation of Rights.
+## 3.    Reservation of Rights.
 Customer is entitled to access Services solely in accordance with the terms of this Agreement. Catalyze and its third party suppliers and partners hereby reserve all rights, title and interest in and to Services, including without limitation all software used to provide the Services and any associated Services and all logos and trademarks reproduced through Catalyze’s system. This Agreement does not grant Customer any intellectual property rights in, or to Services, or any of its components. Catalyze reserves all rights not expressly granted in this Agreement or any Service Order.
 
-##4.	Customer Responsibilities
+## 4.    Customer Responsibilities
 
-###4.1	Use of Catalyze Services
+### 4.1  Use of Catalyze Services
 
 Customer will use Catalyze’s Services in order to host or develop Customer Applications on behalf of itself. Prior to using the Services, Customer represents and warrants that: (a) it has all rights, license and clearances necessary to use the Services, (b) the Services shall be accessed by Customer and its authorized users only. Customer will be solely responsible for all use (whether or not authorized) of the Catalyze Services and Catalyze Materials under its account, including for the quality and integrity of data that it uploads to the Services.
 
-###4.2	End User
+### 4.2  End User
 
 An “End User” is an employee or contractor that Customer authorizes to access the Services.   Customer will ensure that End Users comply with the terms of this Agreement. Customer will promptly notify Catalyze if it becomes aware of any breach of the terms of this Agreement that may affect Catalyze, or other Catalyze Customers. As between Customer and Catalyze, Customer will be solely responsible for the acts and omissions of End Users. Customer will take all reasonable precautions to prevent unauthorized access to or use of the Services and notify Catalyze promptly of any such unauthorized access or use.
 
-###4.3	Collection and Use of Customer Uploaded Data
+### 4.3  Collection and Use of Customer Uploaded Data
 
 Catalyze will use and process Customer Data to the extent necessary for the performance of the Services and will obtain no rights in such Customer Data by virtue of its use under this Agreement. Notwithstanding the foregoing, Catalyze will also collect data that does not identify Customer that results from the performance of a Customer’s applications, including the data related to any error, issue and enhancement and operation of the Services, and the data that Catalyze would have independent of Customer’s use of the Services (“Catalyze Data”) and Customer agrees that Catalyze shall have all rights and ownership in to such Catalyze Data.   Customer acknowledges that it may be necessary for Catalyze to access Customer Data to respond to any technical problems or Customer queries and to ensure the proper working of the Catalyze Services. Catalyze’s access will be limited in such purposes.
 
-###4.4	Restrictions
+### 4.4  Restrictions
 
 Customer will not rent, lease, lend, sell, sublicense, assign, distribute, publish, or otherwise make available the Services to third parties and/or use or authorize the use of Services or Catalyze Materials in any manner or for any purpose that is unlawful.  Customer will ensure that the Services provided hereunder are used in accordance with all applicable laws, regulations and third party rights, as well as the terms of this Agreement. Customer agrees not to:
 
@@ -50,145 +50,145 @@ Customer will not rent, lease, lend, sell, sublicense, assign, distribute, publi
 
 **4.4.3** Engage in any activity that intentionally interferes with or disrupts Services (or the servers and networks which are connected to the Services);
 
-**4.4.4**	Rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer or otherwise make Services available to any third party, except as expressly permitted by this Agreement;
+**4.4.4**   Rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer or otherwise make Services available to any third party, except as expressly permitted by this Agreement;
 
-**4.4.5**	Use or authorize the use of Services in any manner or for any purpose that is unlawful under applicable law and/or by any unauthorized user - and in the event of any such unauthorized access or use, promptly to notify Catalyze; and
+**4.4.5**   Use or authorize the use of Services in any manner or for any purpose that is unlawful under applicable law and/or by any unauthorized user - and in the event of any such unauthorized access or use, promptly to notify Catalyze; and
 
-**4.4.6**	Attempt to reverse compile, disassemble, reverse engineer all or any part of Services or underlying software.  Customer may use Services only to develop and run its Customer Applications on Services, and shall not develop Customer Applications to simulate or act as a single Application or otherwise access the Services in a manner intended to avoid incurring fees.
+**4.4.6**   Attempt to reverse compile, disassemble, reverse engineer all or any part of Services or underlying software.  Customer may use Services only to develop and run its Customer Applications on Services, and shall not develop Customer Applications to simulate or act as a single Application or otherwise access the Services in a manner intended to avoid incurring fees.
 
-**4.4.7**	Access the Services for the purpose of bringing an intellectual property infringement claim against Catalyze or for the purpose of creating a product or service competitive with the Services.
+**4.4.7**   Access the Services for the purpose of bringing an intellectual property infringement claim against Catalyze or for the purpose of creating a product or service competitive with the Services.
 
-###4.5	Customer Compliance
+### 4.5  Customer Compliance
 
 Customer shall comply with all applicable privacy laws, regulations and established industry standards pertaining to the protection and disclosure of personally identifiable information.  Customer represents and warrants that, except to the extent caused by the Services or Catalyze, Customer’s Application and any associated services, products, materials, Uploaded data, content, and information used by Customer in connection with this Agreement as well as Customer’s access to and use of the Services do not, and will not, during the term of this Agreement operate in any manner that would violate any applicable law or regulation, including those under HIPAA and HITECH.
 
-##5.	Fees
+## 5.    Fees
 
-###5.1	Fees
+### 5.1  Fees
 
 Customer agrees to pay the fees for Services set forth in the applicable Service Order, and as executed by both parties.
 
-###5.2	Net of Taxes
+### 5.2  Net of Taxes
 
 All payments required by this Agreement exclude all sales, value-added, use, and other taxes and obligations, all of which Customer shall pay in full, except for taxes based on Catalyze’s income or assets. Customer shall be solely responsible for all sales, service, commercial, gross receipts, privilege, surcharges, value-added, use, excise, consumption and any other taxes, license fees duties and charges of any kind, if any, whether charged to or against Catalyze, imposed by any applicable government, national or local on any amounts payable by Customer under this Agreement or any Service Order, other than any taxes imposed on, or with respect to, Catalyze's income, revenues, gross receipts, personnel, real or personal property or other assets.
 
-###5.3	Invoicing and Payment
+### 5.3  Invoicing and Payment
 
 Catalyze shall invoice Customer for all fees for Services thirty (30) days in advance and payments are due on the 1st of each month. All payments must be made in U.S. dollars.  Payment obligations are non-cancelable and fees paid are non-refundable. In addition to all other remedies available under this Agreement or at law (which Catalyze does not waive the exercise of any rights hereunder), if Customer is overdue on any payment and fails to cure such non-payment within ten (10) days of written notice of the non-payment, then Catalyze may assess, and Customer will pay, a late fee of the lesser of 1.5% per month or the maximum amount allowable by law. Catalyze may also suspend the Services associated with Customer's account until such non-payment is corrected.
 
-##6	Ownership and Confidentiality
+## 6 Ownership and Confidentiality
 
-###6.1	Ownership Rights
+### 6.1  Ownership Rights
 
 As between the parties, Catalyze exclusively owns and reserves all right, title and interest in and to the Services, Catalyze Materials and Catalyze's Confidential Information.  As between the parties, Customer exclusively owns and reserves all right, title and interest in and to the Customer Uploaded Data, Customer Applications, and Customer's Confidential Information.
 
-###6.2	Use of Marks
+### 6.2  Use of Marks
 
 You agree that Catalyze, in its sole discretion, may use your trade names, trademarks, service marks, logos, domain names and other distinctive brand features in presentations, marketing materials, customer lists, financial reports, use cases, and Web site listings (including links to your website) for the purpose of advertising or publicizing your use of the Catalyze Services.
 
-###6.3	Use of Ideas
+### 6.3  Use of Ideas
 
 You may choose to or we may invite you to submit comments or ideas about the Services, including without limitation about how to improve the Services or our products (“Ideas”).  By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place Catalyze under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone.
 
-###6.4	Confidentiality
+### 6.4  Confidentiality
 
-**6.4.1	 Definition**
+**6.4.1  Definition**
 
 “Confidential Information” means this Agreement and any information or data, regardless of whether it is in tangible form, disclosed by either party that is marked or otherwise designated as confidential or proprietary or that should otherwise be reasonably understood to be confidential given the nature of the information and the circumstances surrounding disclosure. “Confidential Information” does not include any information which: (i) is publicly available through no fault of receiving party; (ii) was properly known to receiving party, without restriction, prior to disclosure by the disclosing party; (iii) was properly disclosed to receiving party, without restriction, by another person without violation of disclosing party's rights; or (iv) is independently developed by the receiving party without use of or reference to the disclosing party’s Confidential Information.
 
-**6.4.2	Use and Disclosure**
+**6.4.2 Use and Disclosure**
 
 Each party agrees that it will use the Confidential Information of the other party solely in accordance with the provisions of this Agreement and it will not disclose such information to any third party without the other party’s prior written consent, except as otherwise permitted hereunder.  Each party agrees to exercise due care in protecting the Confidential Information from unauthorized use and disclosure.  Each party may disclose the Confidential Information of the other party, in whole or in part to its employees, representatives, actual or potential investors and subcontractors who have a need to know and are legally bound to keep such information confidential consistent with the terms of this Section.  Either party may disclose the Confidential Information of the other party as required by law, upon prior written notice to the other party (where allowed by law); provided that such party will use its reasonable efforts to minimize such disclosure to the extent permitted by applicable law.
 
-##7	Disclaimer
+## 7 Disclaimer
 
 WITHOUT LIMITING CATALYZE’S EXPRESS OBLIGATIONS HEREUNDER, CATALYZE HEREBY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE AND WARRANTIES RELATED TO THIRD-PARTY EQUIPMENT, MATERIAL, SERVICES, OR SOFTWARE.  CATALYZE’S SERVICES AND PROPERTIES ARE PROVIDED “AS IS” TO THE FULLEST EXTENT PERMITTED BY LAW.  TO THE EXTENT SUCH DISCLAIMER CONFLICTS WITH APPLICABLE LAW, THE SCOPE AND DURATION OF ANY APPLICABLE WARRANTY WILL BE THE MINIMUM PERMITTED UNDER SUCH LAW.
 
-##8	Third Party Indemnification
+## 8 Third Party Indemnification
 
-###8.1	Infringement Indemnity
+### 8.1  Infringement Indemnity
 
-**8.1.1	Defense.** Catalyze will defend, indemnify and hold Customer harmless against any claim, demand, suit, or proceeding (“Claim”) made or brought against Customer by a third party alleging that the use of the Services as permitted hereunder infringes or misappropriates a third party copyright, trade secret, trademark or United States patent.  Catalyze will pay all costs, reasonable legal fees and any settlement amounts agreed to be paid by Catalyze or damages awarded against Customer in connection with any such Claim.
+**8.1.1 Defense.** Catalyze will defend, indemnify and hold Customer harmless against any claim, demand, suit, or proceeding (“Claim”) made or brought against Customer by a third party alleging that the use of the Services as permitted hereunder infringes or misappropriates a third party copyright, trade secret, trademark or United States patent.  Catalyze will pay all costs, reasonable legal fees and any settlement amounts agreed to be paid by Catalyze or damages awarded against Customer in connection with any such Claim.
 
-**8.1.2	Infringement Options.** If the use of the Services by Customer has become, or in Catalyze’s opinion is likely to become, the subject of any claim of infringement, Catalyze may at its option and expense: (i) procure for Customer the right to continue using the Catalyze Services as set forth herein; (ii) modify the Catalyze Services to make such services non-infringing; or (iii) if the foregoing options are not reasonably practicable, terminate this Agreement and refund Customer any unused pre-paid fees
+**8.1.2 Infringement Options.** If the use of the Services by Customer has become, or in Catalyze’s opinion is likely to become, the subject of any claim of infringement, Catalyze may at its option and expense: (i) procure for Customer the right to continue using the Catalyze Services as set forth herein; (ii) modify the Catalyze Services to make such services non-infringing; or (iii) if the foregoing options are not reasonably practicable, terminate this Agreement and refund Customer any unused pre-paid fees
 
-**8.1.3	Limitations.** Catalyze will have no liability or obligation with respect to any Claim if such Claim is caused in whole or in part by: (i) use of the Services by Customer not in accordance with this Agreement; or (ii) the combination, operation or use of the Services with other applications, portions of applications, products or services where the Services would not by itself be infringing.  This Section states Catalyze’s entire and exclusive obligation, and Customer’s exclusive remedy, for any claim of any nature related to infringement or misappropriation of intellectual property
+**8.1.3 Limitations.** Catalyze will have no liability or obligation with respect to any Claim if such Claim is caused in whole or in part by: (i) use of the Services by Customer not in accordance with this Agreement; or (ii) the combination, operation or use of the Services with other applications, portions of applications, products or services where the Services would not by itself be infringing.  This Section states Catalyze’s entire and exclusive obligation, and Customer’s exclusive remedy, for any claim of any nature related to infringement or misappropriation of intellectual property
 
-8.1.4	Indemnification by Customer. Except as stated in Section 8.1 above, Customer will defend, indemnify and hold Catalyze harmless against any Claim arising out of or relating to Customer's activities under this Agreement and Customer's acts or omissions in connection with the provision and access and use of the Services, including without limitation, any intellectual property or privacy claims relating to the Customer’s Application, Customer Uploaded Data and any violation by Customer or End Users of the provisions of Section 4.4(Restrictions).  Customer will pay all costs, reasonable legal fees and any settlement amounts agreed to be paid by Customer or damages awarded against Catalyze in connection with any such Claim.
+8.1.4   Indemnification by Customer. Except as stated in Section 8.1 above, Customer will defend, indemnify and hold Catalyze harmless against any Claim arising out of or relating to Customer's activities under this Agreement and Customer's acts or omissions in connection with the provision and access and use of the Services, including without limitation, any intellectual property or privacy claims relating to the Customer’s Application, Customer Uploaded Data and any violation by Customer or End Users of the provisions of Section 4.4(Restrictions).  Customer will pay all costs, reasonable legal fees and any settlement amounts agreed to be paid by Customer or damages awarded against Catalyze in connection with any such Claim.
 
-**8.1.5	Conditions of Indemnification.** As a condition of the foregoing obligations: (a) the indemnified party (“Indemnified Party”) will promptly notify the indemnifying party (“Indemnifying Party”) of any Claim; (b) the Indemnifying Party will have the sole and exclusive authority to defend or settle any such Claim (provided that, the Indemnifying Party will obtain the Indemnified Party's consent in connection with any act or forbearance required by the Indemnified Party, which consent will not be unreasonably withheld); and (c) the Indemnified Party will reasonably cooperate with the Indemnifying Party in connection with the Indemnifying Party’s activities hereunder, at the Indemnifying Party’s expense.
+**8.1.5 Conditions of Indemnification.** As a condition of the foregoing obligations: (a) the indemnified party (“Indemnified Party”) will promptly notify the indemnifying party (“Indemnifying Party”) of any Claim; (b) the Indemnifying Party will have the sole and exclusive authority to defend or settle any such Claim (provided that, the Indemnifying Party will obtain the Indemnified Party's consent in connection with any act or forbearance required by the Indemnified Party, which consent will not be unreasonably withheld); and (c) the Indemnified Party will reasonably cooperate with the Indemnifying Party in connection with the Indemnifying Party’s activities hereunder, at the Indemnifying Party’s expense.
 
-##9	Exclusion of Damages; Limitation of Liability
+## 9 Exclusion of Damages; Limitation of Liability
 
 EXCEPT FOR LIABILITY ARISING FROM VIOLATIONS OF SECTION 4.4 (RESTRICTIONS) OR 6 (OWNERSHIP AND CONFIDENTIALITY), UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY CHARACTER, INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, LOST PROFITS, LOST SALES OR BUSINESS, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, LOST DATA, OR FOR ANY AND ALL OTHER DAMAGES OR LOSSES, EVEN IF SUCH PARTY HAS BEEN ADVISED, KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
 EXCEPT AS DESCRIBED IN THIS PARAGRAPH, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WILL CATALYZE BE LIABLE TO CUSTOMER FOR ANY DIRECT DAMAGES, COSTS, OR LIABILITIES IN EXCESS OF THE AMOUNTS PAID BY CUSTOMER DURING THE TWELVE MONTHS PRECEDING THE INCIDENT OR CLAIM.  THE FOREGOING LIMITATION WILL NOT APPLY TO CATALYZE’S OBLIGATIONS UNDER SECTION 88 (INDEMNIFICATION).
 THE PROVISIONS OF THIS SECTION 9 ALLOCATE THE RISKS UNDER THIS AGREEMENT BETWEEN THE PARTIES, AND THE PARTIES HAVE RELIED ON THE LIMITATIONS SET FORTH HEREIN IN DETERMINING WHETHER TO ENTER INTO THIS AGREEMENT.
 
-##10	Termination
+## 10    Termination
 
-###10.1	Term
+### 10.1 Term
 
 The term of this Agreement will commence on the date this Agreement is fully signed by the Customer and Catalyze and remains in effect until terminated.
 
-###10.2	Termination
+### 10.2 Termination
 
 Either party may terminate this Agreement in the event the other party commits any material breach of this Agreement and fails to remedy such breach within fifteen  (15) days after written notice of such breach.   Catalyze may also suspend the Services immediately upon notice for cause if: (a) Customer violates (or gives Catalyze reason to believe it has violated) any provision of the Catalyze Acceptable Use Policy; (b) if Customer is in breach of Section 5 of this Agreement, provided that the suspension will continue only for so long as reasonably necessary for Customer to remedy the breach; (c) if Catalyze determines, in its sole discretion, that its provision of any of the Catalyze Services is prohibited by applicable law, or has become impractical or unfeasible for any legal or regulatory reason; or (d) subject to applicable law, upon Customer’s liquidation, commencement of dissolution proceedings, disposal of Customer assets or change of control, a failure to continue business, assignment for the benefit of creditors, or if Customer become the subject of bankruptcy or similar proceeding.  If Customer terminates this Agreement or an applicable Order Form due to Catalyze’s breach, Catalyze will refund a pro-rata share of any pre-paid fees.  If all Service Order Forms under this Agreement have expired or been terminated, either party may terminate this Agreement for convenience by providing written notice.  Upon expiration of this Agreement or a Service Order, Customer will notify its Users that their access to the Services has terminated, and Catalyze may withhold, remove or discard any content, data, or other information that Customer Users post or upload to Catalyze’s system while using the Services.  Catalyze is not obligated to store, maintain or provide a copy of any content or data that Customer or its Users made available or provided when using the Services.
 
-###10.3	  Survival
+### 10.3   Survival
 
 Upon termination or expiration of this Agreement, Customer’s payment obligations, the terms of this Section 10 and the terms of the following Sections will survive:  Section 4.3 (Use of Data), Section 4.1 (Use of Catalyze Services), Section 4.4 (Restrictions), Section 6 (Ownership and Confidentiality), Section 7 (Disclaimer), Section 8 (Indemnification), Section 9 (Exclusion of Damages; Limitation of Liability) and Section 11  (Miscellaneous).
 
-##11	Miscellaneous
+## 11    Miscellaneous
 
-###11.1	Compliance with Laws
+### 11.1 Compliance with Laws
 
 Each party will comply with the applicable laws and regulations relating to their respective activities under this Agreement.
 
-###11.2	Assignment
+### 11.2 Assignment
 
 Neither party hereto may assign or otherwise transfer this Agreement, in whole or in part, without the other party’s prior written consent, except that either party may assign this Agreement without consent to a successor to all or substantially all of its assets or business.  Any attempted assignment, delegation, or transfer by either party in violation hereof will be null and void
 
-###11.3	Amendment Waiver
+### 11.3 Amendment Waiver
 
 No modification to this Agreement, nor any waiver of any   rights, will be effective unless consented to in a writing signed by both parties.  Any waiver of any breach or default by either party will not constitute a waiver of any other right or any subsequent breach or default.  Failure or delay by either party to enforce any provision of this Agreement will not be deemed a waiver of future enforcement of that or any other provision.
 
-###11.4	Relationship
+### 11.4 Relationship
 
 Each party is an independent contractor in the performance of each and every part of this Agreement.  Each party will be solely responsible for all of its employees and agents and its labor costs and expenses arising in connection therewith and for any and all claims, liabilities or damages or debts of any type whatsoever that may arise on account of its activities, or those of its employees or agents, in the performance of this Agreement.  Neither party has the authority to commit the other party in any way and will not attempt to do so or imply that it has the right to do so.
 
-###11.5	Unenforceability
+### 11.5 Unenforceability
 
 In the event that any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be unenforceable, such provision will be limited or eliminated to the minimum extent necessary to render such provision enforceable and, in any event, the remainder of this Agreement will continue in full force and effect.
 
-###11.6	Governing Law: Venue
+### 11.6 Governing Law: Venue
 
 This Agreement shall be governed by and construed in accordance with the internal laws of the State of California without reference to the conflict of laws provisions thereof. For any disputes relating to the interpretation, execution or enforcement of this Agreement or arising from the dealings between Provider, Customer and any third parties under this Agreement shall be dealt with under the exclusive jurisdiction and venue of the courts of the State of California, sitting in San Francisco County, or the United States Federal Court for the District of California, and the parties irrevocably submit for all purposes to the jurisdiction of each such court.
 
-###11.7	Dispute Resolution
+### 11.7 Dispute Resolution
 
 The parties will attempt to resolve any dispute related to this Agreement through good faith and informal negotiations.  If initial negotiation does not resolve the dispute, each party will escalate the dispute to the executive sponsor of this Agreement to attempt to resolve the dispute.  If the parties are unable to resolve the dispute through negotiation, the parties will select a mutually agreed mediator in a mutually agreed location to attempt to resolve the dispute.  In the event of any adjudication of any dispute under this Agreement, the prevailing party in such action may seek to recover reimbursement of its attorneys’ fees and related costs by the other party.  Any breach of confidentiality obligations in this Agreement, or any unauthorized use of the services or a party’s intellectual property by the other party, may cause irreparable harm
 
-###11.8	Notices
+### 11.8 Notices
 
 Any notice required or permitted to be given hereunder will be given in writing to the party at the address specified in this Agreement or in any Service Order by personal delivery, certified mail, return receipt requested, or by overnight delivery.
 
-###11.9	Electronic Signature
+### 11.9 Electronic Signature
 
 Original signatures transmitted and received via electronic transmission of a scanned document (via secure email or a service such as provided by DocuSign) are true and valid signatures for all purposes hereunder and shall bind the parties to the same extent as that or an original signature.  This Agreement may be executed in multiple counterparts, each of which shall be deemed to constitute an original but all of which together shall constitute only one document.
 
-###11.10	Other Terms
+### 11.10    Other Terms
 
 This Agreement supersedes all prior and contemporaneous proposals, statements, sales materials or presentations and agreements, oral and written.  No oral or written information or advice given by Catalyze, its agents or employees will create a warranty or in any way increase the scope of the warranties in this Agreement.  There will be no force or effect to any different terms of any related purchase order or similar form even if signed by the parties after the date hereof.
 
-###11.11	Force Majeure
+### 11.11    Force Majeure
 
 A party is not liable under this Agreement for non-performance caused by events or conditions beyond that party's control (each, a “Force Majeure Event”) if the party makes reasonable efforts to perform.  Either party may terminate this Agreement on written notice to the other party if the Force Majeure Event continues more than 30 days.
 
-###11.12	Export Regulations
+### 11.12    Export Regulations
 
 Customer agrees to comply with all applicable export and re-export control laws and regulations, including the Export Administration Regulations (“EAR”) maintained by the United States Department of Commerce.  Specifically, Customer covenants that it shall not, directly or indirectly, sell, export, re-export, transfer, divert, or otherwise dispose of any software, source code, or technology (including products derived from or based on such technology) received from Provider under this Agreement to any country (or national thereof) subject to antiterrorism controls or U.S. embargo, or to any other person, entity, or destination prohibited by the laws or regulations of the United States, without obtaining prior authorization from the competent government authorities as required by those laws and regulations.  Customer agrees to indemnify, to the fullest extent permitted by law, Provider from and against any fines or penalties that may arise as a result of Customer’s breach of this provision.
 
-###11.13	Entire Agreement: Counterparts
+### 11.13    Entire Agreement: Counterparts
 
 The Exhibits attached hereto are incorporated herein by this reference, are an integral part of the Agreement, and will be read and interpreted together with the Agreement as a single document. This Agreement (including all Exhibits and addendums attached hereto), together with the Service Orders and any applicable non-disclosure agreements, sets forth the complete, exclusive and final statement of the agreement between the parties as to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written, between the parties regarding such subject matter. This Agreement may only be modified, amended, or any rights under it waived, by a written document executed by the Parties. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which together shall constitute one and the same instrument.
 
@@ -196,11 +196,11 @@ The Exhibits attached hereto are incorporated herein by this reference, are an i
 *Last updated: 22nd May, 2014*
 
 
-#BaaS Terms and Conditions
+# BaaS Terms and Conditions
 
 In addition to the General Terms and Conditions, your use of the Catalyze Backend As A Service (BaaS) is subject to the following additional terms and conditions:
 
-##1	Additional Defined Terms
+## 1 Additional Defined Terms
 
 “**Disk Encryption**” means that “data at rest” are encrypted on the hard disk(s) on which Customer Application is deployed.
 
@@ -208,19 +208,19 @@ In addition to the General Terms and Conditions, your use of the Catalyze Backen
 
 “**Protected Health Information**” or “**PHI**” or "**ePHI**" shall have the same meaning as the term “protected health information” in 45 CFR § 160.103, limited to the information received by Catalyze from or on behalf of a Customer.
 
-##2	Encryption
-All BaaS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here](https://catalyze.io/policy/#data-integrity-policy).
+## 2 Encryption
+All BaaS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here][1].
 
-##3	Fees
+## 3 Fees
 Subject to the Terms, the Backend as a Service (BaaS) is provided to you without charge up to certain usage limits. Usage over these limit requires the purchase of additional resources or services. The pricing for additional resources and services can be found at https://www.catalyze.io/backend-as-a-service/ (or such URL as Catalyze may provide)
 
 *Last updated: 22nd May, 2014*
 
-#PaaS Terms and Conditions
+# PaaS Terms and Conditions
 
 In addition to the General Terms and Conditions, use of the Catalyze Platform As A Service (PaaS) is subject to the following additional terms and conditions:
 
-##1	Additional Defined Terms
+## 1 Additional Defined Terms
 
 “**Audit Logging**” means a secure storage Service for Customer Application and System logs that may be used for audit purposes. Specifics of the amount of log data stored and archival needs shall be separately defined by the underlying Service Order.
 
@@ -232,16 +232,16 @@ In addition to the General Terms and Conditions, use of the Catalyze Platform As
 
 “**System Monitoring**" means monitoring services of Customer System. Some potential examples included, but are not limited to, tracking System performance, utilization, access controls, file integrity, and intrusion detection.
 
-##2	Encryption
-All PaaS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here](https://catalyze.io/policy/#data-integrity-policy).
+## 2 Encryption
+All PaaS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here][2].
 
-##3	Logging Services
-Audit Logging will be enabled on request by Customer. It is assumed that log data generated by Customer Application does not contain PHI. Only the most recent fourteen (14) days of log data will be indexed and available. Older logs will be archived. Catalyze Auditing Policies are outlined in detail [here](https://catalyze.io/policy/#auditing-policy).
+## 3 Logging Services
+Audit Logging will be enabled on request by Customer. Only the most recent fourteen (14) days of log data will be indexed and available. Older logs will be archived. Catalyze Auditing Policies are outlined in detail [here][3].
 
-##4	Monitoring Services
- All deployments will have System Monitoring enabled by default. Additional access and enablement of custom monitoring rules can be enabled on request; Catalyze reserves the right to charge additional fees for custom monitoring rules. Catalyze Auditing Policies are outlined in detail [here](https://catalyze.io/policy/#applicable-standards-from-the-hipaa-security-rule91).
+## 4 Monitoring Services
+ All deployments will have System Monitoring enabled by default. Additional access and enablement of custom monitoring rules can be enabled on request; Catalyze reserves the right to charge additional fees for custom monitoring rules. Catalyze Auditing Policies are outlined in detail [here][4].
 
-##5 Term
+## 5 Term
 
 The term of the Subscription Agreement shall be twelve (12) months and payable monthly from the Service Order Effective Date. Following the initial term, the Service Order shall automatically renew for an additional 12 months at the prices then in effect for Services unless either party provides sixty (60) days’ prior written notice of its intent not to renew prior to the expiration of the then current term. Provider may terminate this Service Order in accordance with the Subscription Agreement. Customer may terminate the Service Order under which such Services were ordered by providing written notice to Provider at least sixty (60) days prior to the termination effective date.  Customer shall have no right to terminate the Service Order unless the termination effective date is at least sixty (60) days after the Service Order Effective Date.
 
@@ -249,11 +249,11 @@ The term of the Subscription Agreement shall be twelve (12) months and payable m
 
 *Last updated: 23nd May, 2014*
 
-#Managed Integration Terms and Conditions
+# Managed Integration Terms and Conditions
 
 In addition to the General Terms and Conditions, your use of the Catalyze Managed Integration Service (MIS) is subject to the following additional terms and conditions:
 
-##1	Additional Defined Terms
+## 1 Additional Defined Terms
 
 “**Disk Encryption**” means that “data at rest” are encrypted on the hard disk(s) on which MIS is deployed.
 
@@ -261,112 +261,112 @@ In addition to the General Terms and Conditions, your use of the Catalyze Manage
 
 “**Protected Health Information**” or “**PHI**” or "**ePHI**" shall have the same meaning as the term “protected health information” in 45 CFR § 160.103, limited to the information received by Catalyze from or on behalf of a Customer.
 
-##2	Encryption
-All MIS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here](https://catalyze.io/policy/#data-integrity-policy).
+## 2 Encryption
+All MIS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Catalyze Encryption Policies are outlined in detail [here][5].
 
-##3 Term
+## 3 Term
 The term of the Subscription Agreement for all MIS customers shall be twelve (12) months and payable monthly from the Service Order Effective Date. Following the initial term, the Service Order shall automatically renew for an additional 12 months at the prices then in effect for Services unless either party provides sixty (60) days’ prior written notice of its intent not to renew prior to the expiration of the then current term. Provider may terminate this Service Order in accordance with the Subscription Agreement.
 
 *Last updated: 1st May, 2015*
 
 
 
-#Service Level Agreement
+# Service Level Agreement
 
-##1.	Email support
+## 1.    Email support
 
 Catalyze shall provide Customer email support, which shall be available Monday through Friday, 7:00 a.m. To 5:00 p.m. Central time, excluding holidays.
 
-##2.	Phone support
+## 2.    Phone support
 
 Catalyze shall provide Customer phone support, which shall be available Monday through Friday, 9:00 a.m. To 5:00 p.m. Central time, excluding holidays.
 
-##3.	Service availability
+## 3.    Service availability
 
 Catalyze will use commercially reasonable efforts to maintain the availability of the Platform to Customer as follows:
 
-| Service Category	 | Availability/Response Time |
+| Service Category   | Availability/Response Time |
 |------------------|-----------------------------|
-|Monthly Availability | The availability percentage does not include interruptions due to Scheduled Downtime or Force Majeure.	99.9% monthly|
+|Monthly Availability | The availability percentage does not include interruptions due to Scheduled Downtime or Force Majeure.  99.9% monthly|
 |Scheduled Downtime| 10:00 pm – 11:00 pm Central Time weekly on Saturdays, or as Catalyze otherwise notifies Customer no less than twenty-four (24) hours in advance, but in no event shall Scheduled Downtime exceed two (two) hours in any given week.  Any such outages in excess of this amount shall be considered Unplanned Outages (defined below).|
 |Unplanned Outages (other than for system emergency)|Maximum 40 minutes over a reference period of 1 month, excluding Force Majeure.|
-|Unplanned Outages for system emergency| 	Maximum 2 hours over a reference period of 1 month, excluding Force Majeure.  Catalyze will promptly notify Customer of any Unplanned Outage (whether or not for system emergency), including a description of the Unplanned Outage and the expected or estimated time until normal operations will resume. |
-|Average time for remedy of incidents (*Calculated as from opening until closing of a case.*)| 	< 4 hours for 90% of cases |
+|Unplanned Outages for system emergency|    Maximum 2 hours over a reference period of 1 month, excluding Force Majeure.  Catalyze will promptly notify Customer of any Unplanned Outage (whether or not for system emergency), including a description of the Unplanned Outage and the expected or estimated time until normal operations will resume. |
+|Average time for remedy of incidents (*Calculated as from opening until closing of a case.*)|  \< 4 hours for 90% of cases |
 
 
-###3.1	Exclusions
+### 3.1  Exclusions
 
 Catalyze shall have no liability for lack of availability due to: (1) outages caused by the failure of public network or communications components, (2) user or Customer errors, or (3) unauthorized use or misuse by Customer or anyone using any of the Customer passwords, unless Customer has not taken industry standard steps to protect the Services from unauthorized access, intrusion, and disruption.
 
-###3.2	Customer Reporting
+### 3.2  Customer Reporting
 
 Customer shall report any unscheduled system downtime and any error, bug, or defect in the Services to the maintenance email support@catalyze.com promptly upon becoming aware or receiving notice of such system downtime, error, bug, or defect.
 
-###3.3	Sole Remedies for Failure to Meet the Service Availability Level Commitment
+### 3.3  Sole Remedies for Failure to Meet the Service Availability Level Commitment
 
 For each calendar month in which Catalyze has Uptime of:
 
-**3.3.1**	less than 99.9% but above 95%, Catalyze shall upon Customer’s request made within thirty (30) days of the end of the calendar month, provide Customer with a written plan for improving Catalyze’s Service Availability to attain the 99.9% Service Availability and Catalyze shall promptly implement such plan;
+**3.3.1**   less than 99.9% but above 95%, Catalyze shall upon Customer’s request made within thirty (30) days of the end of the calendar month, provide Customer with a written plan for improving Catalyze’s Service Availability to attain the 99.9% Service Availability and Catalyze shall promptly implement such plan;
 
-**3.3.2**	between 95% and 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one half of one month of service and the action plan under subpart (a) above; or
+**3.3.2**   between 95% and 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one half of one month of service and the action plan under subpart (a) above; or
 
 **3.3.3** less than 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one month of service and the action plan under subpart (a) above. Customer may also terminate this Agreement upon thirty (30) days’ written notice (which notice must be given within sixty (60) days of the end of the calendar month in which the Service Availability was less than 90%).
 
 Customer shall not exercise the rights in this Section 3.3 without a reasonable basis or belief that the applicable Service Availability commitment was not satisfied. If Customer believes that Catalyze has failed to achieve an Uptime commitment in any given month, Catalyze shall, promptly following Customer’s request, promptly provide a report that contains true and correct information detailing Catalyze’s actual Service Availability performance. THIS SECTION 3.3 SETS FORTH CUSTOMER’S SOLE AND EXCLUSIVE REMEDY, AND Catalyze’S ENTIRE LIABILITY, SOLELY FOR ANY FAILURE TO MEET THE SERVICE AVAILABILITY COMMITMENT.
 
 
-##4.	ERROR CORRECTIONS AND UPDATES
+## 4.    ERROR CORRECTIONS AND UPDATES
 
 
-###4.1	Definitions
+### 4.1  Definitions
 
 
-**4.1.1**	“**Error**” means a failure of the Platform, including without limitation a failure to conform to the documentation, resulting in the inability to use, or material restriction in the use of, the Platform.
+**4.1.1**   “**Error**” means a failure of the Platform, including without limitation a failure to conform to the documentation, resulting in the inability to use, or material restriction in the use of, the Platform.
 
-**4.1.2**	“**Update**” means either a Hosting Service modification or addition that, when made or added to the Hosting Service, corrects the Error, or a procedure or routine that, when observed in the regular operation of the Product, eliminates the practical adverse effect of the Error.
+**4.1.2**   “**Update**” means either a Hosting Service modification or addition that, when made or added to the Hosting Service, corrects the Error, or a procedure or routine that, when observed in the regular operation of the Product, eliminates the practical adverse effect of the Error.
 
-###4.2	Updates
+### 4.2  Updates
 
 Catalyze makes commercially reasonable efforts to provide an Update designed to solve or by-pass a reported Error. Catalyze shall reasonably determine the priority level of Errors, pursuant to the following protocols and take the following actions during the Customer’s Support Center Hours.
 
-##4.3	Errors
+## 4.3   Errors
 
 
-**4.3.1	 Severity 1 Errors**:  Catalyze shall promptly initiate the following procedures: (1) assigns specialists to correct the Error on an expedited basis; (2) provides ongoing communication on the status of an Update; and (3) begins to provide a temporary workaround or fix.  A Severity One Error means the (i) production system is severely impacted or completely shut down, or (ii) system operations or mission-critical Services are down.
+**4.3.1  Severity 1 Errors**:  Catalyze shall promptly initiate the following procedures: (1) assigns specialists to correct the Error on an expedited basis; (2) provides ongoing communication on the status of an Update; and (3) begins to provide a temporary workaround or fix.  A Severity One Error means the (i) production system is severely impacted or completely shut down, or (ii) system operations or mission-critical Services are down.
 
-**4.3.2	 Severity 2 Errors**:  Catalyze shall assign a Catalyze specialist to begin an Update, and provides additional, escalated procedures as reasonably determined necessary by Catalyze Support Services staff.  Catalyze exercises commercially reasonable efforts to provide a workaround or include a fix for the Severity 2 Errors in the next update or release.   A Severity Two Error means (i) the production system is functioning with limited capabilities, or (ii) is unstable with periodic interruptions, or (iii) mission critical Services, while not being affected, has experienced system interruptions.
+**4.3.2  Severity 2 Errors**:  Catalyze shall assign a Catalyze specialist to begin an Update, and provides additional, escalated procedures as reasonably determined necessary by Catalyze Support Services staff.  Catalyze exercises commercially reasonable efforts to provide a workaround or include a fix for the Severity 2 Errors in the next update or release.   A Severity Two Error means (i) the production system is functioning with limited capabilities, or (ii) is unstable with periodic interruptions, or (iii) mission critical Services, while not being affected, has experienced system interruptions.
 
-**4.3.3	 Severity 3 Errors**:  Catalyze may include an Update in the next release.  A Severity Three Error means there (i) are errors in fully operational production systems, (ii) is a need to clarify procedures or information in documentation, or (iii) is a request for a product enhancement.
+**4.3.3  Severity 3 Errors**:  Catalyze may include an Update in the next release.  A Severity Three Error means there (i) are errors in fully operational production systems, (ii) is a need to clarify procedures or information in documentation, or (iii) is a request for a product enhancement.
 
-##4.4	Response Times
+## 4.4   Response Times
 
 Catalyze will respond to Customer reports of a problem based on the severity. Upon receipt of a request for support or report of a problem, Catalyze will respond to Customer with an assigned level of priority based on the response times shown in the following table.
 
-|Priority	| Examples	| Initial Response Time |
+|Priority   | Examples  | Initial Response Time |
 |----------|----------|-----------------------|
-|**Priority One:Emergency**. A crisis has occurred - a system is down, a major operational function is unavailable or a critical interface has failed|Production system is down or crashing frequently. A business critical operation cannot be performed|< 1 business hours|
-|**Priority Two: Critical**. Any problem critical to Customer success and requiring immediate resolution|Any problem critical to Customer success and requiring immediate resolution |< 4 business hours |
-|**Priority Three:  High**. Priority three situations include problems to be resolved as soon as possible.  Most of these have acceptable workarounds, or the Product recovers by itself.|Errors in production systems but still fully functional. Malfunction in non-critical functions|< 1 business day|
-|**Priority Four:  Normal** Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature|Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect|< 2 business days|
+|**Priority One:Emergency**. A crisis has occurred - a system is down, a major operational function is unavailable or a critical interface has failed|Production system is down or crashing frequently. A business critical operation cannot be performed|\< 1 business hours|
+|**Priority Two: Critical**. Any problem critical to Customer success and requiring immediate resolution|Any problem critical to Customer success and requiring immediate resolution |\< 4 business hours |
+|**Priority Three:  High**. Priority three situations include problems to be resolved as soon as possible.  Most of these have acceptable workarounds, or the Product recovers by itself.|Errors in production systems but still fully functional. Malfunction in non-critical functions|\< 1 business day|
+|**Priority Four:  Normal** Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature|Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect|\< 2 business days|
 
-##5.	Conditions for providing support
+## 5.    Conditions for providing support
 
 Catalyze’s obligation to provide support services is conditioned upon the following:  (a) Customer makes reasonable efforts to solve the problem after consulting with Catalyze; and (b) Customer provides Catalyze with reasonably sufficient information and resources to correct the problem, as well as reasonable access to the personnel, hardware, and any additional systems involved in discovering the problem.
 
-##6.	Exclusions from Catalyze’s support services
+## 6.    Exclusions from Catalyze’s support services
 
 Catalyze is not obligated to provide support services in the following situations: (a) the problem is caused by Customer’s negligence, hardware malfunction or other causes beyond the reasonable control of Catalyze; (b) the problem is with third party software not made available through or used by Catalyze; (c) the problem is with individual user’s desktop or browser software; or (d) Customer has not paid services fees under the Agreement when due.
 
 
 *Last updated: 22nd May, 2014*
 
-#Catalyze Acceptable Use Policy
+# Catalyze Acceptable Use Policy
 
 This Acceptable Use Policy describes actions that Catalyze prohibits when any person uses the Catalyze Services ("Services"), including parties (“Customer”) to a separate agreement with Catalyze who use the Catalyze Services.   In the event of a conflict between this Acceptable Use Policy and an underlying Agreement with a Customer, the underlying Agreement shall govern.
 
 The Catalyze Services may not be used in any illegal, abusive or other manner that interferes with the business or activities of any other party, including being used in violation of HIPAA. The following list gives examples of prohibited actions, including types of email and content. This list is provided by way of example and should not be considered exhaustive.
 
-##Prohibited Actions
+## Prohibited Actions
 
 - Attempting to bypass or break any security mechanism on any of the Catalyze Services or using the Catalyze Services in any other manner that poses a security or service risk to Catalyze or any of its users or customers.
 
@@ -384,7 +384,7 @@ The Catalyze Services may not be used in any illegal, abusive or other manner th
 
 - Utilizing Catalyze Services in a way that knowingly violates HIPAA rules.
 
-##Prohibited Content
+## Prohibited Content
 
  - Content that infringes a third party's rights (e.g., copyright) according to applicable law;
 
@@ -408,7 +408,7 @@ The Catalyze Services may not be used in any illegal, abusive or other manner th
 
  - Other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights.
 
-##Prohibited Email
+## Prohibited Email
 
  - Transmitting any material that contains viruses, trojan horses, worms or any other malicious, harmful, or deleterious programs.
 
@@ -440,7 +440,7 @@ The Catalyze Services may not be used in any illegal, abusive or other manner th
 
  - Sending unsolicited emails to significant numbers of email addresses belonging to individuals and/or entities with whom Customer or its Authorized Users have no preexisting relationship in violation of applicable law.
 
-##Customer Content on the Services and Take Down Obligations
+## Customer Content on the Services and Take Down Obligations
 
  - Customer agrees to promptly take down any content that violates this Acceptable Use Policy, including pursuant to a take-down request from Catalyze. In the event that Customer elects not to comply with a request from Catalyze to take down certain Content, Catalyze reserves the right to directly take down such Customer Content or to disable Applications upon reasonable prior written notice.
 
@@ -454,14 +454,14 @@ The Catalyze Services may not be used in any illegal, abusive or other manner th
 *Last Updated: May 15, 2014*
 
 
-#Privacy Policy
+# Privacy Policy
 
 Catalyze, Inc. (“Catalyze” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Catalyze's Web site privacy practices.
 
-##1. Web Site Covered
+## 1. Web Site Covered
 This Privacy Statement covers the information practices of http://catalyze.io.
 
-##2. Information Collected
+## 2. Information Collected
 
 Catalyze offers a variety of services that are collectively referred to as the “Services.” Catalyze collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
@@ -469,7 +469,7 @@ When expressing an interest in obtaining additional information about the Servic
 
 As you navigate the Company’s Web site, Catalyze may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
 
-##3. Use of Information Collected
+## 3. Use of Information Collected
 
 The Company uses Data About Catalyze Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
@@ -479,10 +479,10 @@ Catalyze uses credit card information solely to check the financial qualificatio
 
 Catalyze uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Catalyze Customers to provide personalized information about the Company.
 
-##4. Web Site Navigational Information
+## 4. Web Site Navigational Information
 Catalyze uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used.
 
-###4.1 Cookies
+### 4.1 Cookies
 Catalyze uses cookies to make interactions with the Company’s Web site easy and meaningful. When you visit the Company’s Web site, Catalyze’s servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to Catalyze, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a “Contact Me” Web form), you remain anonymous to the Company. Catalyze uses cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
 
 If you have chosen to identify yourself to Catalyze, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Services, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests. Session cookies are required to use the Services.
@@ -491,32 +491,32 @@ Catalyze uses persistent cookies that only the Company can read and use to ident
 
 Catalyze may use information from session and persistent cookies in combination with Data About Catalyze Customers to provide you with information about the Company and the Services.
 
-###4.2 Web Beacons
+### 4.2 Web Beacons
 Catalyze may use Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors’ usage of the Company’s Web site and interaction with emails from the Company. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular Web site tied to the Web beacon, and a description of a Web site tied to the Web beacon. For example, Catalyze may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company’s Web site. Catalyze uses Web beacons to operate and improve the Company’s Web site and email communications.
 
 Catalyze may use information from Web beacons in combination with Data About Catalyze Customers to provide you with information about the Company and the Services.
 
-###4.3 Flash Cookies
+### 4.3 Flash Cookies
 Catalyze may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom the Company partners to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://en.wikipedia.org/wiki/Local_shared_object).
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here][6].
 
-###4.4 IP Addresses
+### 4.4 IP Addresses
 When you visit Catalyze’s Web site, the Company collects your Internet Protocol (“IP”) addresses to track and aggregate non-personal information. For example, Catalyze uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company’s Web site.
 
-###4.5 Third Party Cookies
+### 4.5 Third Party Cookies
 From time-to-time, Catalyze engages third parties to track and analyze usage and volume statistical information from individuals who visit the Company’s Web site. Catalyze may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it.
 
 Catalyze may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts.
 
-##5. Public Forums, Refer a Friend, and Customer Testimonials
+## 5. Public Forums, Refer a Friend, and Customer Testimonials
 Catalyze may provide bulletin boards, blogs, or chat rooms on the Company’s Web site. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Catalyze is not responsible for the personal information you choose to submit in these forums.
 
 Customers and Visitors may elect to use the Company’s referral program to inform friends about the Company’s Web site. When using the referral program, the Company requests the friend’s name and email address. Catalyze will automatically send the friend a one-time email inviting him or her to visit the Company’s Web site. Catalyze does not store this information.
 
 Catalyze may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Catalyze obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-##6. Sharing of Information Collected
+## 6. Sharing of Information Collected
 Catalyze may share Data About Catalyze Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Catalyze may also share Data About Catalyze Customers with the Company’s service providers to ensure the quality of information provided. **Unless described in this privacy statement, Catalyze does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.**
 
 From time to time, Catalyze may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Catalyze, the Company may share Data About Catalyze Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Catalyze does not control our business partners’ use of the Data About Catalyze Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
@@ -526,23 +526,32 @@ Catalyze uses a third-party service provider to manage credit card processing. T
 Catalyze reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
 
-##7. Communications Preferences
+## 7. Communications Preferences
 Catalyze offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@catalyze.com. Customers cannot opt out of receiving transactional emails related to their account with Catalyze or the Services.
 
-##8. Correcting and Updating Your Information
+## 8. Correcting and Updating Your Information
 Customers may update or change their registration information by logging in to their accounts at http://catalyze.com. Requests to access, change, or delete your information will be handled within 30 days.
 
-##9. Security
+## 9. Security
 Catalyze uses appropriate administrative, technical, and physical security measures to protect Data About Catalyze Customers.
 
-##10. Changes to this Privacy Statement
+## 10. Changes to this Privacy Statement
 Catalyze reserves the right to change this Privacy Statement. Catalyze will provide notification of the material changes to this Privacy Statement through the Company’s Web site at least thirty (30) business days prior to the change taking effect.
 
-##11. Contacting Us
+## 11. Contacting Us
 Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@catalyze.com or by mailing Catalyze Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
 
------
+---- 
 *Last updated May 29th, 2014.*
 
 
-*These policies are inspired by the policies of [Google App Engine](http://developers.google.com/appengine/terms) and [Heroku](http://policy.heroku.com/). The original works have been modified. Catalyze is not affiliated with or sponsored by Google or Heroku.*
+*These policies are inspired by the policies of [Google App Engine][7] and [Heroku][8]. The original works have been modified. Catalyze is not affiliated with or sponsored by Google or Heroku.*
+
+[1]:	https://catalyze.io/policy/#data-integrity-policy
+[2]:	https://catalyze.io/policy/#data-integrity-policy
+[3]:	https://catalyze.io/policy/#auditing-policy
+[4]:	https://catalyze.io/policy/#applicable-standards-from-the-hipaa-security-rule91
+[5]:	https://catalyze.io/policy/#data-integrity-policy
+[6]:	http://en.wikipedia.org/wiki/Local_shared_object
+[7]:	http://developers.google.com/appengine/terms
+[8]:	http://policy.heroku.com/
