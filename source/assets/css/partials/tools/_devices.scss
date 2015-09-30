@@ -13,7 +13,7 @@
 		width: 220px;
 		top: 36px;
 		background-color: #fff;
-		z-index: 2;
+		z-index: 99;
 		left: -220px;
 		ul{
 			&:first-of-type{@include easing(250ms);margin: 0px 0px 0px 0px;}
@@ -60,7 +60,8 @@
 	.sub-header{
 		.search{
 			float: none;
-			margin: 20px 0px 0px 0px;
+			margin: 5px 0px 0px 0px;
+			span.icon{display: none;}
 			input[type="text"]{
 				width: 100%;
 			}
