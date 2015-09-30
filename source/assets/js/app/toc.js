@@ -81,6 +81,12 @@
 		});
 	};
 
+	function searchHack(){
+		var lI = $(".search-results li");
+		console.log(lI.html());
+	};
+
+	$(searchHack);
 	$(deviceMenu);
 	$(makeToc);
 	$(animate);

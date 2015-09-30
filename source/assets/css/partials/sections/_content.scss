@@ -139,6 +139,7 @@ body{margin: 5px 0px 0px 0px;}
 	.search{
 		position: relative;
 		float: right;
+		z-index: 98;
 		.icon{
 			max-width: 18px;
 			height: auto;
@@ -162,6 +163,54 @@ body{margin: 5px 0px 0px 0px;}
 		}
 	}
 }
+.search-results{
+	display: none;
+	z-index: 99;
+	background-color: #fff;
+	margin: 20px 20px 0px 33.33%;
+	border: 1px solid $c_border;
+	padding: 5px 5px 5px 10px;
+	@include border-radius(5px);
+	@include box-shadow(0px 0px 10px $c_border);
+	li{
+		color: $c_text;
+		a{
+			text-decoration: none;
+			color: $c_brand;
+			display: block;
+			line-height: 2;
+			position: relative;
+			border-bottom: 1px dotted $c_border;
+			@include easing(350ms);
+			&:hover{
+				@include easing(350ms);
+				padding-left: 10px;
+				&:after{
+					@include easing(350ms);
+					right: 20px;
+				}
+			}
+			&:after{
+				@include easing(350ms);
+				content: " ";
+				position: absolute;
+				right: 5px;
+				top: 12px;
+				font-size: 12px;
+				line-height: 1;
+				background-color: $c_brand;
+				color: #fff;
+				height: 5px;
+				width: 5px;
+				@include border-radius(20px);
+			}
+		}
+		&:last-of-type{
+			a{border-bottom: 0px;}
+		}
+	}
+}
+.search-results.visible{display: block;}
 // Menu
 .menu{
 	padding: 10px 20px 10px 0px;
@@ -245,6 +294,7 @@ body{margin: 5px 0px 0px 0px;}
 .content{
 	padding: 20px 20px 60px 0px;
 	margin-left: 33.33%;
+	.search-highlight{background-color: $c_search;}
 	h2,
 	h1{
 		font-size: 24px;
