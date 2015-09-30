@@ -1,12 +1,12 @@
 # General Terms and Conditions
 
-## 1. The Subscription Agreement
+## 1 The Subscription Agreement
 
 The Subscription Agreement references and fully incorporates the following documents:: (i) the Service Order that describes the Services the Customer is buying, along with related fees; (ii) these General Terms and Conditions containing the general terms and conditions applicable to all Services, (iii) the specific Product Terms and Conditions containing the additional terms for the particular Catalyze Services Customer is buying, and (iv) the Acceptable Use Policy. The term "Subscription Agreement" or "Agreement" in any of these documents refers to collectively to all of the documents outlines above.
 
 The Agreement is effective as of the time that Customer signs the form of Agreement prepared by Catalyze, or accepts the Agreement as part of Catalyze’s online order process and registration.  This Agreement’s terms may only be modified in writing where the Service Order specifically states the specific section, or term of this Agreement that is being modified.
 
-## 2. Defined Terms
+## 2 Defined Terms
 
  “**Catalyze Materials**" means all command line tools, devices, documents, data, know-how, methods, processes, sample code, software, software libraries, and other inventions, works, technologies and materials, including any and all Service software, computer hardware, programs, reports and specifications, WDSLs, client software and deliverables provided or used by Catalyze in connection with performing the Services, in each case developed or acquired by Catalyze independently of this Agreement.
 
@@ -23,10 +23,10 @@ The Agreement is effective as of the time that Customer signs the form of Agreem
 
  “**Professional Services**” means those ancillary services provided by Provider in connection with the delivery of Services to the Customer but invoiced as a separate line item from the Services itself such as, by way of example, set up, implementation, training, customization and other professional services.
 
-## 3.    Reservation of Rights.
+## 3    Reservation of Rights.
 Customer is entitled to access Services solely in accordance with the terms of this Agreement. Catalyze and its third party suppliers and partners hereby reserve all rights, title and interest in and to Services, including without limitation all software used to provide the Services and any associated Services and all logos and trademarks reproduced through Catalyze’s system. This Agreement does not grant Customer any intellectual property rights in, or to Services, or any of its components. Catalyze reserves all rights not expressly granted in this Agreement or any Service Order.
 
-## 4.    Customer Responsibilities
+## 4    Customer Responsibilities
 
 ### 4.1  Use of Catalyze Services
 
@@ -62,7 +62,7 @@ Customer will not rent, lease, lend, sell, sublicense, assign, distribute, publi
 
 Customer shall comply with all applicable privacy laws, regulations and established industry standards pertaining to the protection and disclosure of personally identifiable information.  Customer represents and warrants that, except to the extent caused by the Services or Catalyze, Customer’s Application and any associated services, products, materials, Uploaded data, content, and information used by Customer in connection with this Agreement as well as Customer’s access to and use of the Services do not, and will not, during the term of this Agreement operate in any manner that would violate any applicable law or regulation, including those under HIPAA and HITECH.
 
-## 5.    Fees
+## 5    Fees
 
 ### 5.1  Fees
 
@@ -273,15 +273,15 @@ The term of the Subscription Agreement for all MIS customers shall be twelve (12
 
 # Service Level Agreement
 
-## 1.    Email support
+## 1    Email support
 
 Catalyze shall provide Customer email support, which shall be available Monday through Friday, 7:00 a.m. To 5:00 p.m. Central time, excluding holidays.
 
-## 2.    Phone support
+## 2    Phone support
 
 Catalyze shall provide Customer phone support, which shall be available Monday through Friday, 9:00 a.m. To 5:00 p.m. Central time, excluding holidays.
 
-## 3.    Service availability
+## 3    Service availability
 
 Catalyze will use commercially reasonable efforts to maintain the availability of the Platform to Customer as follows:
 
@@ -315,7 +315,7 @@ For each calendar month in which Catalyze has Uptime of:
 Customer shall not exercise the rights in this Section 3.3 without a reasonable basis or belief that the applicable Service Availability commitment was not satisfied. If Customer believes that Catalyze has failed to achieve an Uptime commitment in any given month, Catalyze shall, promptly following Customer’s request, promptly provide a report that contains true and correct information detailing Catalyze’s actual Service Availability performance. THIS SECTION 3.3 SETS FORTH CUSTOMER’S SOLE AND EXCLUSIVE REMEDY, AND Catalyze’S ENTIRE LIABILITY, SOLELY FOR ANY FAILURE TO MEET THE SERVICE AVAILABILITY COMMITMENT.
 
 
-## 4.    ERROR CORRECTIONS AND UPDATES
+## 4    ERROR CORRECTIONS AND UPDATES
 
 
 ### 4.1  Definitions
@@ -349,11 +349,11 @@ Catalyze will respond to Customer reports of a problem based on the severity. Up
 |**Priority Three:  High**. Priority three situations include problems to be resolved as soon as possible.  Most of these have acceptable workarounds, or the Product recovers by itself.|Errors in production systems but still fully functional. Malfunction in non-critical functions|\< 1 business day|
 |**Priority Four:  Normal** Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature|Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect|\< 2 business days|
 
-## 5.    Conditions for providing support
+## 5    Conditions for providing support
 
 Catalyze’s obligation to provide support services is conditioned upon the following:  (a) Customer makes reasonable efforts to solve the problem after consulting with Catalyze; and (b) Customer provides Catalyze with reasonably sufficient information and resources to correct the problem, as well as reasonable access to the personnel, hardware, and any additional systems involved in discovering the problem.
 
-## 6.    Exclusions from Catalyze’s support services
+## 6    Exclusions from Catalyze’s support services
 
 Catalyze is not obligated to provide support services in the following situations: (a) the problem is caused by Customer’s negligence, hardware malfunction or other causes beyond the reasonable control of Catalyze; (b) the problem is with third party software not made available through or used by Catalyze; (c) the problem is with individual user’s desktop or browser software; or (d) Customer has not paid services fees under the Agreement when due.
 
@@ -369,86 +369,52 @@ The Catalyze Services may not be used in any illegal, abusive or other manner th
 ## Prohibited Actions
 
 - Attempting to bypass or break any security mechanism on any of the Catalyze Services or using the Catalyze Services in any other manner that poses a security or service risk to Catalyze or any of its users or customers.
-
- - Testing or reverse-engineering the Catalyze Services in order to find limitations, vulnerabilities or evade filtering capabilities.
-
- - Removing any copyright, trademark or other proprietary rights notices contained in or on the Services;
-
- - Reformatting or framing any portion of the web pages that are part of the Services’ administration display without Catalyze’s permission.
-
- - Using the Catalyze Platform in connection with illegal peer-to-peer file sharing.
-
- - Launching or facilitating, whether intentionally or unintentionally, a denial of service attack on any of the Catalyze Services or any other conduct that adversely impacts the availability, reliability or stability of the Catalyze Services.
-
+- Testing or reverse-engineering the Catalyze Services in order to find limitations, vulnerabilities or evade filtering capabilities.
+- Removing any copyright, trademark or other proprietary rights notices contained in or on the Services;
+- Reformatting or framing any portion of the web pages that are part of the Services’ administration display without Catalyze’s permission.
+- Using the Catalyze Platform in connection with illegal peer-to-peer file sharing.
+- Launching or facilitating, whether intentionally or unintentionally, a denial of service attack on any of the Catalyze Services or any other conduct that adversely impacts the availability, reliability or stability of the Catalyze Services.
 - Reusing, without explicit permission, documentation, policies, or other content provided by Catalyze.
-
 - Utilizing Catalyze Services in a way that knowingly violates HIPAA rules.
 
 ## Prohibited Content
 
- - Content that infringes a third party's rights (e.g., copyright) according to applicable law;
-
- - Excessively profane content;
-
- - Any hate-related or violent content or contains any other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third party rights;
-
- - Content advocating racial or ethnic intolerance;
-
- - Content intended to advocate or advance computer hacking or cracking;
-
- - Gambling;
-
- - Other illegal activity, including without limitation illegal export of controlled substances or illegal software;
-
- - Illegal drug paraphernalia;
-
- - Phishing;
-
- - Malicious content, sending, uploading, distributing or disseminating or offering to do the same with respect to any unlawful, defamatory, harassing, abusive, fraudulent, infringing, obscene, or otherwise objectionable content; or
-
- - Other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights.
+- Content that infringes a third party's rights (e.g., copyright) according to applicable law;
+- Excessively profane content;
+- Any hate-related or violent content or contains any other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third party rights;
+- Content advocating racial or ethnic intolerance;
+- Content intended to advocate or advance computer hacking or cracking;
+- Gambling;
+- Other illegal activity, including without limitation illegal export of controlled substances or illegal software;
+- Illegal drug paraphernalia;
+- Phishing;
+- Malicious content, sending, uploading, distributing or disseminating or offering to do the same with respect to any unlawful, defamatory, harassing, abusive, fraudulent, infringing, obscene, or otherwise objectionable content; or
+- Other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights.
 
 ## Prohibited Email
 
- - Transmitting any material that contains viruses, trojan horses, worms or any other malicious, harmful, or deleterious programs.
-
- - Using the Catalyze Services in any manner that violates any applicable industry standards, third party policies or requirements that Catalyze may communicate to its users.
-
- - Engaging in any unsolicited advertising, marketing or other activities, including, without limitation, any activities that violate anti-spam laws and regulations including, but not limited to, the CAN SPAM Act of 2003.
-
- - Using the Catalyze Services in connection with any unsolicited or harassing messages (commercial or otherwise).
-
- - Using Catalyze Services to engage in fraudulent activity with respect to third parties.
-
- - Violating or facilitating the violation of any local or foreign law, including laws regarding the transmission of data or software.
-
- - Taking any action to encourage or promote any activity prohibited under this Acceptable Use Policy.
-
- - Transmitting any material that infringes the intellectual property rights or other rights of third parties.
-
- - Transmitting any material that is libelous, defamatory, discriminatory or otherwise malicious or harmful to any person or entity.
-
- - Creating a false identity or forged email address or header, or otherwise attempting to mislead others as to the identity of the sender or the origin of a message, imitating or impersonating another person or his, her or its email address, or creating false accounts for the purpose of sending spam.
-
- - Unauthorized data mining any web property (including Services) to find email addresses or other user account information.
-
- - Sending unauthorized email via open, third-party servers.
-
- - Sending emails to users who have requested to be removed from an applicable mailing list.
-
- - Selling, exchanging or distributing to a third party the email addresses of any person without any legally required consent to such disclosure.
-
- - Sending unsolicited emails to significant numbers of email addresses belonging to individuals and/or entities with whom Customer or its Authorized Users have no preexisting relationship in violation of applicable law.
+- Transmitting any material that contains viruses, trojan horses, worms or any other malicious, harmful, or deleterious programs.
+- Using the Catalyze Services in any manner that violates any applicable industry standards, third party policies or requirements that Catalyze may communicate to its users.
+- Engaging in any unsolicited advertising, marketing or other activities, including, without limitation, any activities that violate anti-spam laws and regulations including, but not limited to, the CAN SPAM Act of 2003.
+- Using the Catalyze Services in connection with any unsolicited or harassing messages (commercial or otherwise).
+- Using Catalyze Services to engage in fraudulent activity with respect to third parties.
+- Violating or facilitating the violation of any local or foreign law, including laws regarding the transmission of data or software.
+- Taking any action to encourage or promote any activity prohibited under this Acceptable Use Policy.
+- Transmitting any material that infringes the intellectual property rights or other rights of third parties.
+- Transmitting any material that is libelous, defamatory, discriminatory or otherwise malicious or harmful to any person or entity.
+- Creating a false identity or forged email address or header, or otherwise attempting to mislead others as to the identity of the sender or the origin of a message, imitating or impersonating another person or his, her or its email address, or creating false accounts for the purpose of sending spam.
+- Unauthorized data mining any web property (including Services) to find email addresses or other user account information.
+- Sending unauthorized email via open, third-party servers.
+- Sending emails to users who have requested to be removed from an applicable mailing list.
+- Selling, exchanging or distributing to a third party the email addresses of any person without any legally required consent to such disclosure.
+- Sending unsolicited emails to significant numbers of email addresses belonging to individuals and/or entities with whom Customer or its Authorized Users have no preexisting relationship in violation of applicable law.
 
 ## Customer Content on the Services and Take Down Obligations
 
- - Customer agrees to promptly take down any content that violates this Acceptable Use Policy, including pursuant to a take-down request from Catalyze. In the event that Customer elects not to comply with a request from Catalyze to take down certain Content, Catalyze reserves the right to directly take down such Customer Content or to disable Applications upon reasonable prior written notice.
-
- - In the event that Customer becomes aware of any violation of this Agreement by a user of one of Customer’s applications, Customer shall promptly terminate such users' account on the Customer application. Catalyze reserves the right to disable Customer’s applications in response to a violation or suspected violation of this Agreement.
-
- - Customer agrees that it is solely responsible for (and that Catalyze has no responsibility to it or to any third party for) the Customer application or any content that it creates, transmits or displays while using the Catalyze Services and for the consequences of its actions (including any loss or damage which Catalyze may suffer) by doing so, except to the extent caused by the Services or Catalyze.
-
- - Customer agrees that Catalyze has no responsibility or liability for the deletion or failure to store any Customer content and other communications maintained or transmitted through use of the Service.
+- Customer agrees to promptly take down any content that violates this Acceptable Use Policy, including pursuant to a take-down request from Catalyze. In the event that Customer elects not to comply with a request from Catalyze to take down certain Content, Catalyze reserves the right to directly take down such Customer Content or to disable Applications upon reasonable prior written notice.
+- In the event that Customer becomes aware of any violation of this Agreement by a user of one of Customer’s applications, Customer shall promptly terminate such users' account on the Customer application. Catalyze reserves the right to disable Customer’s applications in response to a violation or suspected violation of this Agreement.
+- Customer agrees that it is solely responsible for (and that Catalyze has no responsibility to it or to any third party for) the Customer application or any content that it creates, transmits or displays while using the Catalyze Services and for the consequences of its actions (including any loss or damage which Catalyze may suffer) by doing so, except to the extent caused by the Services or Catalyze.
+- Customer agrees that Catalyze has no responsibility or liability for the deletion or failure to store any Customer content and other communications maintained or transmitted through use of the Service.
 
 ---
 *Last Updated: May 15, 2014*
@@ -458,10 +424,10 @@ The Catalyze Services may not be used in any illegal, abusive or other manner th
 
 Catalyze, Inc. (“Catalyze” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Catalyze's Web site privacy practices.
 
-## 1. Web Site Covered
+## 1 Web Site Covered
 This Privacy Statement covers the information practices of http://catalyze.io.
 
-## 2. Information Collected
+## 2 Information Collected
 
 Catalyze offers a variety of services that are collectively referred to as the “Services.” Catalyze collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
@@ -469,7 +435,7 @@ When expressing an interest in obtaining additional information about the Servic
 
 As you navigate the Company’s Web site, Catalyze may also collect information through the use of commonly-used information-gathering tools, such as cookies and Web beacons (“Web Site Navigational Information”). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on the Company’s Web site (such as the Web pages viewed and the links clicked).
 
-## 3. Use of Information Collected
+## 3 Use of Information Collected
 
 The Company uses Data About Catalyze Customers to perform the services requested. For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
@@ -479,7 +445,7 @@ Catalyze uses credit card information solely to check the financial qualificatio
 
 Catalyze uses Web Site Navigational Information to operate and improve the Company’s Web site. The Company may also use Web Site Navigational Information alone or in combination with Data About Catalyze Customers to provide personalized information about the Company.
 
-## 4. Web Site Navigational Information
+## 4 Web Site Navigational Information
 Catalyze uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company’s Web site (“Web Site Navigational Information”). This section describes the types of Web Site Navigational Information that may be collected on the Company’s Web site and how this information may be used.
 
 ### 4.1 Cookies
@@ -509,14 +475,14 @@ From time-to-time, Catalyze engages third parties to track and analyze usage and
 
 Catalyze may also contract with third-party advertising networks that collect IP addresses and other Web Site Navigational Information on the Company’s Web site and emails and on third-party Web sites. Ad networks follow your online activities over time by collecting Web Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other Web sites. This process also helps us manage and track the effectiveness of our marketing efforts.
 
-## 5. Public Forums, Refer a Friend, and Customer Testimonials
+## 5 Public Forums, Refer a Friend, and Customer Testimonials
 Catalyze may provide bulletin boards, blogs, or chat rooms on the Company’s Web site. Any personal information you choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send you unsolicited messages. Catalyze is not responsible for the personal information you choose to submit in these forums.
 
 Customers and Visitors may elect to use the Company’s referral program to inform friends about the Company’s Web site. When using the referral program, the Company requests the friend’s name and email address. Catalyze will automatically send the friend a one-time email inviting him or her to visit the Company’s Web site. Catalyze does not store this information.
 
 Catalyze may post a list of Customers and testimonials on the Company’s Web site that contain information such as Customer names and titles. Catalyze obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-## 6. Sharing of Information Collected
+## 6 Sharing of Information Collected
 Catalyze may share Data About Catalyze Customers with the Company’s service providers so that these service providers can contact Customers and Visitors who have provided contact information on our behalf. Catalyze may also share Data About Catalyze Customers with the Company’s service providers to ensure the quality of information provided. **Unless described in this privacy statement, Catalyze does not share, sell, rent, or trade any information provided with third parties for their promotional purposes.**
 
 From time to time, Catalyze may partner with other companies to jointly offer products or services. If you purchase or specifically express interest in a jointly-offered product or service from Catalyze, the Company may share Data About Catalyze Customers collected in connection with your purchase or expression of interest with our joint promotion partner(s). Catalyze does not control our business partners’ use of the Data About Catalyze Customers we collect, and their use of the information will be in accordance with their own privacy policies. If you do not wish for your information to be shared in this manner, you may opt not to purchase or specifically express interest in a jointly offered product or service.
@@ -526,22 +492,22 @@ Catalyze uses a third-party service provider to manage credit card processing. T
 Catalyze reserves the right to use or disclose information provided if required by law or if the Company reasonably believes that use or disclosure is necessary to protect the Company’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
 
-## 7. Communications Preferences
+## 7 Communications Preferences
 Catalyze offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@catalyze.com. Customers cannot opt out of receiving transactional emails related to their account with Catalyze or the Services.
 
-## 8. Correcting and Updating Your Information
+## 8 Correcting and Updating Your Information
 Customers may update or change their registration information by logging in to their accounts at http://catalyze.com. Requests to access, change, or delete your information will be handled within 30 days.
 
-## 9. Security
+## 9 Security
 Catalyze uses appropriate administrative, technical, and physical security measures to protect Data About Catalyze Customers.
 
-## 10. Changes to this Privacy Statement
+## 10 Changes to this Privacy Statement
 Catalyze reserves the right to change this Privacy Statement. Catalyze will provide notification of the material changes to this Privacy Statement through the Company’s Web site at least thirty (30) business days prior to the change taking effect.
 
-## 11. Contacting Us
+## 11 Contacting Us
 Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@catalyze.com or by mailing Catalyze Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
 
----- 
+----
 *Last updated May 29th, 2014.*
 
 
