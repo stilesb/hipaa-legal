@@ -22,6 +22,7 @@
 	}
 	.device-controls{
 		display: block;
+		z-index: 99;
 		span.hide-menu{display: none;}
 	}
 	.search-results{margin-left: 20px;}
