@@ -217,37 +217,9 @@ body{margin: 5px 0px 0px 0px;}
 	position: fixed;
 	z-index: 1;
 	top: 0px;
+	bottom: 0px;
 	width: 20.80%;
 	box-shadow: 8px 0px 10px -7px $c_border;
-	.device-controls{
-		display: none;
-		position: fixed;
-		font-size: 14px;
-		z-index: 3;
-		top: 0px;
-		left: 0px;
-		right: 0px;
-		width: 100%;
-		font-size: 14px;
-		font-weight: 600;
-		color: #fff;
-		cursor: pointer;
-		left: 0px;
-		span.show-menu{
-			color: #fff;
-			background-color: $c_brand;
-			padding: 8px;
-			position: fixed;
-			top: 0px;
-			text-align: center;
-			left: 0px;
-			right: 0px;
-			width: 100%;
-		}
-		span.hide-menu{
-			@extend span.show-menu;
-		}
-	}
 	ul{
 		&:first-of-type{@include easing(250ms);margin: 135px 0px 0px 0px;}
 		li{margin: 5px 0px;}
@@ -272,7 +244,7 @@ body{margin: 5px 0px 0px 0px;}
 		&:first-of-type{margin: 20px 0px 0px 0px;}
 	}
 	a{
-		padding: 10px;
+		padding: 6px;
 		font-size: 13px;
 		display: block;
 		text-decoration: none;
@@ -287,6 +259,36 @@ body{margin: 5px 0px 0px 0px;}
 		}
 	}
 	li.tocify-focus{a{color: $c_brand;}}
+}
+.device-controls{
+	@extend .cf;
+	display: none;
+	position: fixed;
+	font-size: 14px;
+	z-index: 3;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	width: 100%;
+	font-size: 14px;
+	font-weight: 600;
+	color: #fff;
+	cursor: pointer;
+	left: 0px;
+	span.show-menu{
+		color: #fff;
+		@include background-gradient(lighten($c_brand, 10%), $c_brand);
+		padding: 8px;
+		position: fixed;
+		top: 0px;
+		text-align: center;
+		left: 0px;
+		right: 0px;
+		width: 100%;
+	}
+	span.hide-menu{
+		@extend span.show-menu;
+	}
 }
 // Content
 .content{
