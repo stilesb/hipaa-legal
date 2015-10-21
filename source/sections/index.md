@@ -271,7 +271,7 @@ The term of the Subscription Agreement for all MIS customers shall be twelve (12
 
 
 
-# Service Level Agreement
+# Service Level Agreement: PaaS
 
 ## 1    Email support
 
