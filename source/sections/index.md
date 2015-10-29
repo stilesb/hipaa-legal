@@ -217,6 +217,7 @@ Subject to the Terms, the Backend as a Service (BaaS) is provided to you without
 *Last updated: 22nd May, 2014*
 
 <a id="paasterms"></a>
+<div name="paasterms" data-unique="paasterms"></div>
 # PaaS Terms and Conditions
 
 In addition to the General Terms and Conditions, use of the Catalyze Platform As A Service (PaaS) is subject to the following additional terms and conditions:
