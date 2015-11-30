@@ -271,15 +271,6 @@ The term of the Subscription Agreement for all MIS customers shall be twelve (12
 
 *Last updated: 1st May, 2015*
 
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-
-
 # Service Level and Support Agreement
 
 ## 1 Defined Terms
@@ -348,7 +339,7 @@ Service Category | Examples | Initial Response Time
 Priority One: Urgent. A crisis has occurred - a system is down, a major operational function is unavailable or a critical interface has failed | Production system is down or crashing frequently. A business critical operation cannot be performed | < 1 business hours
 Priority Two: High. Any problem critical to Customer success and requiring immediate resolution | Any problem critical to Customer success and requiring immediate resolution | < 4 business hours
 Priority Three: Normal. Priority three situations include problems to be resolved as soon as possible. Most of these have acceptable workarounds, or the Product recovers by itself. | Errors in production systems but still fully functional. Malfunction in non-critical functions | < 1 business day
-Priority Four: Low Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature | Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect | < 2 business days
+Priority Four: Low. Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature | Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect | < 2 business days
 
 ## 4 Support Services Responsibilities
 
@@ -382,21 +373,11 @@ Major Format Modification | New / rewritten source or destination API. Different
 Endpoint/Connection Change | Customer or Integrating Organization need to change endpoints or IP addresses. | < 10 business days (excluding work efforts required by Customer or Integration Organization)
 
 ### 5.2 Sole Remedies for Failure to Meet the Interface Support Request commitment.
-For each twelve (12) month period in where Catalyze does not meet the above Initial Response or Resolution time periods for an issue,
-For support requests that do not meet the resolution times as specified in Section 5.1 above
+For each twelve (12) month period in where Catalyze does not meet the above Initial Response or Resolution time periods for an issue.
 5.2.1 For each missed request, Catalyze shall, upon Customer’s request made within thirty (30) days of the date the request was missed, provide Customer with a service credit in an amount equal to half of one month of the specific Production Integration’s Service fee.
 5.2.2 For the third missed request within a twelve (12) month period of time, Catalyze shall, upon Customer’s request made within thirty (30) days of the date the request was missed, provide Customer with a service credit in an amount equal to one month of the specific Production Integration’s Service fee.  Customer may also terminate this Agreement upon thirty (30) days’ written notice (which notice must be given within sixty (60) days of the date the missed request).
 
 *Last updated: 30th November, 2015*
-
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-<!-- xxxxxxxx -->
-
 
 # Privacy Policy
 
