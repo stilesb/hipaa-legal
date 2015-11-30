@@ -271,155 +271,131 @@ The term of the Subscription Agreement for all MIS customers shall be twelve (12
 
 *Last updated: 1st May, 2015*
 
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
 
 
-# Service Level Agreement: PaaS
+# Service Level and Support Agreement
 
-## 1    Email support
+## 1 Defined Terms
 
-Catalyze shall provide Customer email support, which shall be available Monday through Friday, 7:00 a.m. To 5:00 p.m. Central time, excluding holidays.
+**“Business Day”** means Monday through Friday excluding national United States holidays.
 
-## 2    Phone support
+**“Business Hours”** means 9:00 a.m. to 5:00 p.m. Central standard time of a Business Day.
 
-Catalyze shall provide Customer phone support, which shall be available Monday through Friday, 9:00 a.m. To 5:00 p.m. Central time, excluding holidays.
+**“Integrating Organization”** means an organization with which Customer (via Catalyze) has an active interface.
 
-## 3    Service availability
+**“Authorized User”** means individuals authorized to use a Service.
 
-Catalyze will use commercially reasonable efforts to maintain the availability of the Platform to Customer as follows:
+**“Interface”** means a secure bridge connecting a Customer and their Integrating Organization that transfers specific data in a particular direction (inbound to the Customer or outbound to the Integrating Organization), optionally based on a standard format e.g. HL7 ADT.
 
-| Service Category   | Availability/Response Time |
-|------------------|-----------------------------|
-|Monthly Availability | The availability percentage does not include interruptions due to Scheduled Downtime or Force Majeure.  99.9% monthly|
-|Scheduled Downtime| 10:00 pm – 11:00 pm Central Time weekly on Saturdays, or as Catalyze otherwise notifies Customer no less than twenty-four (24) hours in advance, but in no event shall Scheduled Downtime exceed two (two) hours in any given week.  Any such outages in excess of this amount shall be considered Unplanned Outages (defined below).|
-|Unplanned Outages (other than for system emergency)|Maximum 40 minutes over a reference period of 1 month, excluding Force Majeure.|
-|Unplanned Outages for system emergency|    Maximum 2 hours over a reference period of 1 month, excluding Force Majeure.  Catalyze will promptly notify Customer of any Unplanned Outage (whether or not for system emergency), including a description of the Unplanned Outage and the expected or estimated time until normal operations will resume. |
-|Average time for remedy of incidents (*Calculated as from opening until closing of a case.*)|  \< 4 hours for 90% of cases |
+**“Production Integration”** means a specific Interface that has completed testing and is being used to transmit production data and electronic Patient Health Information (ePHI).
 
+**“Error”** means a failure of a Service, including without limitation a failure to conform to the documentation, resulting in the inability to use, or material restriction in the use of a Service.
 
-### 3.1  Exclusions
+**“Update”** means either a Service modification or addition that, when made or added to the Service, corrects an Error, or a procedure or routine that, when observed in the regular operation of the Service, eliminates the practical adverse effect of the Error.
 
-Catalyze shall have no liability for lack of availability due to: (1) outages caused by the failure of public network or communications components, (2) user or Customer errors, or (3) unauthorized use or misuse by Customer or anyone using any of the Customer passwords, unless Customer has not taken industry standard steps to protect the Services from unauthorized access, intrusion, and disruption.
+## 2 Service Availability and Service Availability Credits
 
-### 3.2  Customer Reporting
+Catalyze will use commercially reasonable efforts to make the Services Available as described below:
 
-Customer shall report any unscheduled system downtime and any error, bug, or defect in the Services to the maintenance email support@catalyze.com promptly upon becoming aware or receiving notice of such system downtime, error, bug, or defect.
+Service Category | Availability
+--------- | -----------
+Availability Requirement | The monthly availability percentage is  ninety nine point nine percent (99.9%) as measured over the course of each calendar month during the Term, excluding  interruptions described below.
+Scheduled Downtime | 10:00 pm – 11:00 pm CST weekly on Saturdays, or as Catalyze otherwise notifies Customer no less than twenty-four (24) hours in advance, but in no event shall Scheduled Downtime exceed two (2) hours in any given week. Any such outages in excess of this amount shall be considered Unplanned Outages (defined below).
+Unplanned Outages | Maximum two (2) hours over a reference period of one (1) month. Catalyze will promptly notify Customer of any Unplanned Outage, including a description of the Unplanned Outage and the expected or estimated time until normal operations will resume.
+Exceptions to Availability | No period of Service degradation or inoperability will be included in calculating Availability to the extent caused by: <br /> (1) outages caused by the failure of public network or communications components; <br /> (2) Customer’s misuse of Services; including their Integrating Organizations or their Authorized Users; <br /> (3) unauthorized use or misuse by Customer or anyone using any of the Customer passwords, unless Customer has not taken industry standard steps to protect the Services from unauthorized access, intrusion, and disruption; <br /> (4) failures of Customer or any of its Authorized Users’ internet connectivity; <br /> (5) Scheduled Downtime as set forth above; <br /> (6) Force Majeure Event; <br /> (7) disabling, suspension or termination of the Services.
 
-### 3.3  Sole Remedies for Failure to Meet the Service Availability Level Commitment
+### 2.1 Customer Reporting
+Customer shall report any Service degradation or impaired ability to use the Services, included unscheduled system downtime and any Error to Catalyze’s maintenance email (support@catalyze.io) promptly, but not less than twenty-four (24 )hours upon becoming aware or receiving notice of such Service downtime, error, bug, or defect.
 
-For each calendar month in which Catalyze has Uptime of:
+### 2.1 Sole Remedies for Failure to Meet the Service Availability commitment
+For each calendar month in which a Service has Availability of:
 
-**3.3.1**   less than 99.9% but above 95%, Catalyze shall upon Customer’s request made within thirty (30) days of the end of the calendar month, provide Customer with a written plan for improving Catalyze’s Service Availability to attain the 99.9% Service Availability and Catalyze shall promptly implement such plan;
+**2.1.1** less than 99.9% but above 95%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of the calendar month, provide Customer with a written plan for improving Catalyze’s Service Availability  to attain the 99.9% availability as defined in Section 4 and Catalyze shall promptly implement such plan;
 
-**3.3.2**   between 95% and 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one half of one month of service and the action plan under subpart (a) above; or
+**2.1.2** between 95% and 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one half of one month of the specific Service and the action plan under subpart (1) above;
 
-**3.3.3** less than 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one month of service and the action plan under subpart (a) above. Customer may also terminate this Agreement upon thirty (30) days’ written notice (which notice must be given within sixty (60) days of the end of the calendar month in which the Service Availability was less than 90%).
+**2.1.3** less than 90%, Catalyze shall, upon Customer’s request made within thirty (30) days of the end of that calendar month, provide Customer with a service credit in an amount equal to one month of the specific service and the action plan under subpart (a) above. Customer may also terminate this Agreement upon thirty (30) days’ written notice (which notice must be given within sixty (60) days of the end of the calendar month in which the Service Availability was less than 90%.
 
-Customer shall not exercise the rights in this Section 3.3 without a reasonable basis or belief that the applicable Service Availability commitment was not satisfied. If Customer believes that Catalyze has failed to achieve an Uptime commitment in any given month, Catalyze shall, promptly following Customer’s request, promptly provide a report that contains true and correct information detailing Catalyze’s actual Service Availability performance. THIS SECTION 3.3 SETS FORTH CUSTOMER’S SOLE AND EXCLUSIVE REMEDY, AND Catalyze’S ENTIRE LIABILITY, SOLELY FOR ANY FAILURE TO MEET THE SERVICE AVAILABILITY COMMITMENT.
+Customer shall not exercise the rights in this Section 2.1 without a reasonable basis or belief that the applicable Service Availability commitment was not satisfied. If Customer believes that Catalyze has failed to achieve an Uptime commitment in any given month, Customer shall provide written notice to Catalyze and  Catalyze shall promptly provide a report that contains true and correct information detailing Catalyze’s actual Service Availability performance. THIS SECTION 2.1 SETS FORTH CUSTOMER’S SOLE AND EXCLUSIVE REMEDY, AND CATALYZE’S ENTIRE LIABILITY, SOLELY FOR ANY FAILURE TO MEET THE SERVICE AVAILABILITY COMMITMENT.
 
+## 3 Service Maintenance
 
-## 4    ERROR CORRECTIONS AND UPDATES
+### 3.1 Updates and Service Errors
+Catalyze shall maintain the Services to optimize Availability. Such maintenance services shall include providing to Customer all updates, bug fixes, enhancements, new releases and other improvements to the Services that Catalyze makes at no additional charge to its other similarly situated customers.
 
+Catalyze shall make commercially reasonable efforts to provide an Update designed to solve or bypass a reported Error. Catalyze shall reasonably determine the priority level of Errors, pursuant to the following protocols and take the following actions as provided in Section 3.2.
 
-### 4.1  Definitions
+### 3.2 Support Service Level Requirements
 
+**3.2.1 Severity 1 Errors:** Catalyze shall promptly initiate the following procedures: (1) assign personnel to correct the Error on an expedited basis; (2) provide ongoing communication on the status; and (3) begins to provide a temporary workaround or fix. A Severity One Error means the (i) production system is severely impacted or completely shut down, or (ii) system operations or mission-critical Services are down.
 
-**4.1.1**   “**Error**” means a failure of the Platform, including without limitation a failure to conform to the documentation, resulting in the inability to use, or material restriction in the use of, the Platform.
+**3.2.2 Severity 2 Errors:** Catalyze shall assign a Catalyze personnel to begin an Update, and provide additional, escalated procedures as reasonably determined necessary by Catalyze Support Services staff. Catalyze exercises commercially reasonable efforts to provide a workaround or include a fix for the Severity 2 Errors in the next update or release. A Severity Two Error means (i) the production system is functioning with limited capabilities, or (ii) is unstable with periodic interruptions, or (iii) mission critical Services, while not being affected, has experienced system interruptions.
 
-**4.1.2**   “**Update**” means either a Hosting Service modification or addition that, when made or added to the Hosting Service, corrects the Error, or a procedure or routine that, when observed in the regular operation of the Product, eliminates the practical adverse effect of the Error.
+**3.2.3 Severity 3 Errors:** Catalyze may include an Update in the next release. A Severity Three Error means there (i) are errors in fully operational production systems, (ii) is a need to clarify procedures or information in documentation, or (iii) is a request for a product enhancement.
 
-### 4.2  Updates
-
-Catalyze makes commercially reasonable efforts to provide an Update designed to solve or by-pass a reported Error. Catalyze shall reasonably determine the priority level of Errors, pursuant to the following protocols and take the following actions during the Customer’s Support Center Hours.
-
-## 4.3   Errors
-
-
-**4.3.1  Severity 1 Errors**:  Catalyze shall promptly initiate the following procedures: (1) assigns specialists to correct the Error on an expedited basis; (2) provides ongoing communication on the status of an Update; and (3) begins to provide a temporary workaround or fix.  A Severity One Error means the (i) production system is severely impacted or completely shut down, or (ii) system operations or mission-critical Services are down.
-
-**4.3.2  Severity 2 Errors**:  Catalyze shall assign a Catalyze specialist to begin an Update, and provides additional, escalated procedures as reasonably determined necessary by Catalyze Support Services staff.  Catalyze exercises commercially reasonable efforts to provide a workaround or include a fix for the Severity 2 Errors in the next update or release.   A Severity Two Error means (i) the production system is functioning with limited capabilities, or (ii) is unstable with periodic interruptions, or (iii) mission critical Services, while not being affected, has experienced system interruptions.
-
-**4.3.3  Severity 3 Errors**:  Catalyze may include an Update in the next release.  A Severity Three Error means there (i) are errors in fully operational production systems, (ii) is a need to clarify procedures or information in documentation, or (iii) is a request for a product enhancement.
-
-## 4.4   Response Times
-
+### 3.3 Support Requests and Response Time Service Levels**
 Catalyze will respond to Customer reports of a problem based on the severity. Upon receipt of a request for support or report of a problem, Catalyze will respond to Customer with an assigned level of priority based on the response times shown in the following table.
 
-|Priority   | Examples  | Initial Response Time |
-|----------|----------|-----------------------|
-|**Priority One:Emergency**. A crisis has occurred - a system is down, a major operational function is unavailable or a critical interface has failed|Production system is down or crashing frequently. A business critical operation cannot be performed|\< 1 business hours|
-|**Priority Two: Critical**. Any problem critical to Customer success and requiring immediate resolution|Any problem critical to Customer success and requiring immediate resolution |\< 4 business hours |
-|**Priority Three:  High**. Priority three situations include problems to be resolved as soon as possible.  Most of these have acceptable workarounds, or the Product recovers by itself.|Errors in production systems but still fully functional. Malfunction in non-critical functions|\< 1 business day|
-|**Priority Four:  Normal** Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature|Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect|\< 2 business days|
+Service Category | Examples | Initial Response Time
+--------- | ----------- | -----------
+Priority One: Urgent. A crisis has occurred - a system is down, a major operational function is unavailable or a critical interface has failed | Production system is down or crashing frequently. A business critical operation cannot be performed | < 1 business hours
+Priority Two: High. Any problem critical to Customer success and requiring immediate resolution | Any problem critical to Customer success and requiring immediate resolution | < 4 business hours
+Priority Three: Normal. Priority three situations include problems to be resolved as soon as possible. Most of these have acceptable workarounds, or the Product recovers by itself. | Errors in production systems but still fully functional. Malfunction in non-critical functions | < 1 business day
+Priority Four: Low Priority four situations are technical questions or problems requiring resolution - many of which are of “how to” nature | Need clarification of procedures or information in documentation. Attributes or options do not operate as stated. Product enhancement requests. Documentation is incorrect | < 2 business days
 
-## 5    Conditions for providing support
+## 4 Support Services Responsibilities
 
-Catalyze’s obligation to provide support services is conditioned upon the following:  (a) Customer makes reasonable efforts to solve the problem after consulting with Catalyze; and (b) Customer provides Catalyze with reasonably sufficient information and resources to correct the problem, as well as reasonable access to the personnel, hardware, and any additional systems involved in discovering the problem.
+### 4.1 Online and email support
+Catalyze shall provide email support during Business Hours and shall provide online access to technical support bulletins and forums, to the full extent Catalyze makes such resources available to its other customers.
 
-## 6    Exclusions from Catalyze’s support services
+### 4.2 Phone support
+Catalyze shall provide phone support during Business Hours.
 
-Catalyze is not obligated to provide support services in the following situations: (a) the problem is caused by Customer’s negligence, hardware malfunction or other causes beyond the reasonable control of Catalyze; (b) the problem is with third party software not made available through or used by Catalyze; (c) the problem is with individual user’s desktop or browser software; or (d) Customer has not paid services fees under the Agreement when due.
+### 4.3 Correction of Service Errors
+Catalyze shall correct all Service Errors in accordance with the Support Service Level Requirements as specified in Section 3.2.
 
+### 4.4 Response and Resolution of Support Requests
+Catalyze shall respond to and resolve Support requests as specified in this Section 4. 
 
-*Last updated: 22nd May, 2014*
+### 4.5 Conditions for providing support
+Catalyze’s obligation to provide support services is conditioned upon the following: (a) the Customer and, where applicable the  Integrating Organization, making reasonable efforts to solve the problem; and (b) the Customer and Integrating Organization providing Catalyze with reasonably sufficient information and resources to correct the problem as well as reasonable access to the personnel, hardware, and any additional systems involved in discovering and resolving the problem.
 
-# Catalyze Acceptable Use Policy
+### 4.6 Exclusions from Catalyze’s support services
+Catalyze is not obligated to provide support services in the following situations: (a) the problem is caused by Customer’s or Integrating Organization’s negligence, hardware malfunction or other causes beyond the reasonable control of Catalyze; (b) the problem is with third party software not made available through or used by Catalyze;  (c )  the problem is with an  individual user’s desktop or browser software; (d) Customer has not paid services fees under the Agreement when due, or Customer or Integrating Organization has failed to install updates or follow written instructions provided to it by Catalyze regarding the Production Interface.
 
-This Acceptable Use Policy describes actions that Catalyze prohibits when any person uses the Catalyze Services ("Services"), including parties (“Customer”) to a separate agreement with Catalyze who use the Catalyze Services.   In the event of a conflict between this Acceptable Use Policy and an underlying Agreement with a Customer, the underlying Agreement shall govern.
+## 5 Integration as a Service Support
 
-The Catalyze Services may not be used in any illegal, abusive or other manner that interferes with the business or activities of any other party, including being used in violation of HIPAA. The following list gives examples of prohibited actions, including types of email and content. This list is provided by way of example and should not be considered exhaustive.
+### 5.1 Resolution Times
+Upon notification and submission of all required information, Catalyze will resolve requests from Customer to modify Production Integrations within the following time periods:
 
-## Prohibited Actions
+Request Type | Examples | Resolution Time
+--------- | ----------- | -----------
+Minor Format Modification | Data items (e.g. dates, phone numbers, and SSNs) need different format. JSON object arrangement or naming conventions modified. | < 5 business days
+Major Format Modification | New / rewritten source or destination API. Different data needs to be gathered/shared. | Due to high variability and possible  complexity of changes, customer and Catalyze will discuss and agree to a resolution plan and deadline.
+Endpoint/Connection Change | Customer or Integrating Organization need to change endpoints or IP addresses. | < 10 business days (excluding work efforts required by Customer or Integration Organization)
 
-- Attempting to bypass or break any security mechanism on any of the Catalyze Services or using the Catalyze Services in any other manner that poses a security or service risk to Catalyze or any of its users or customers.
-- Testing or reverse-engineering the Catalyze Services in order to find limitations, vulnerabilities or evade filtering capabilities.
-- Removing any copyright, trademark or other proprietary rights notices contained in or on the Services;
-- Reformatting or framing any portion of the web pages that are part of the Services’ administration display without Catalyze’s permission.
-- Using the Catalyze Platform in connection with illegal peer-to-peer file sharing.
-- Launching or facilitating, whether intentionally or unintentionally, a denial of service attack on any of the Catalyze Services or any other conduct that adversely impacts the availability, reliability or stability of the Catalyze Services.
-- Reusing, without explicit permission, documentation, policies, or other content provided by Catalyze.
-- Utilizing Catalyze Services in a way that knowingly violates HIPAA rules.
+### 5.2 Sole Remedies for Failure to Meet the Interface Support Request commitment.
+For each twelve (12) month period in where Catalyze does not meet the above Initial Response or Resolution time periods for an issue,
+For support requests that do not meet the resolution times as specified in Section 5.1 above
+5.2.1 For each missed request, Catalyze shall, upon Customer’s request made within thirty (30) days of the date the request was missed, provide Customer with a service credit in an amount equal to half of one month of the specific Production Integration’s Service fee.
+5.2.2 For the third missed request within a twelve (12) month period of time, Catalyze shall, upon Customer’s request made within thirty (30) days of the date the request was missed, provide Customer with a service credit in an amount equal to one month of the specific Production Integration’s Service fee.  Customer may also terminate this Agreement upon thirty (30) days’ written notice (which notice must be given within sixty (60) days of the date the missed request).
 
-## Prohibited Content
+*Last updated: 30th November, 2015*
 
-- Content that infringes a third party's rights (e.g., copyright) according to applicable law;
-- Excessively profane content;
-- Any hate-related or violent content or contains any other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third party rights;
-- Content advocating racial or ethnic intolerance;
-- Content intended to advocate or advance computer hacking or cracking;
-- Gambling;
-- Other illegal activity, including without limitation illegal export of controlled substances or illegal software;
-- Illegal drug paraphernalia;
-- Phishing;
-- Malicious content, sending, uploading, distributing or disseminating or offering to do the same with respect to any unlawful, defamatory, harassing, abusive, fraudulent, infringing, obscene, or otherwise objectionable content; or
-- Other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights.
-
-## Prohibited Email
-
-- Transmitting any material that contains viruses, trojan horses, worms or any other malicious, harmful, or deleterious programs.
-- Using the Catalyze Services in any manner that violates any applicable industry standards, third party policies or requirements that Catalyze may communicate to its users.
-- Engaging in any unsolicited advertising, marketing or other activities, including, without limitation, any activities that violate anti-spam laws and regulations including, but not limited to, the CAN SPAM Act of 2003.
-- Using the Catalyze Services in connection with any unsolicited or harassing messages (commercial or otherwise).
-- Using Catalyze Services to engage in fraudulent activity with respect to third parties.
-- Violating or facilitating the violation of any local or foreign law, including laws regarding the transmission of data or software.
-- Taking any action to encourage or promote any activity prohibited under this Acceptable Use Policy.
-- Transmitting any material that infringes the intellectual property rights or other rights of third parties.
-- Transmitting any material that is libelous, defamatory, discriminatory or otherwise malicious or harmful to any person or entity.
-- Creating a false identity or forged email address or header, or otherwise attempting to mislead others as to the identity of the sender or the origin of a message, imitating or impersonating another person or his, her or its email address, or creating false accounts for the purpose of sending spam.
-- Unauthorized data mining any web property (including Services) to find email addresses or other user account information.
-- Sending unauthorized email via open, third-party servers.
-- Sending emails to users who have requested to be removed from an applicable mailing list.
-- Selling, exchanging or distributing to a third party the email addresses of any person without any legally required consent to such disclosure.
-- Sending unsolicited emails to significant numbers of email addresses belonging to individuals and/or entities with whom Customer or its Authorized Users have no preexisting relationship in violation of applicable law.
-
-## Customer Content on the Services and Take Down Obligations
-
-- Customer agrees to promptly take down any content that violates this Acceptable Use Policy, including pursuant to a take-down request from Catalyze. In the event that Customer elects not to comply with a request from Catalyze to take down certain Content, Catalyze reserves the right to directly take down such Customer Content or to disable Applications upon reasonable prior written notice.
-- In the event that Customer becomes aware of any violation of this Agreement by a user of one of Customer’s applications, Customer shall promptly terminate such users' account on the Customer application. Catalyze reserves the right to disable Customer’s applications in response to a violation or suspected violation of this Agreement.
-- Customer agrees that it is solely responsible for (and that Catalyze has no responsibility to it or to any third party for) the Customer application or any content that it creates, transmits or displays while using the Catalyze Services and for the consequences of its actions (including any loss or damage which Catalyze may suffer) by doing so, except to the extent caused by the Services or Catalyze.
-- Customer agrees that Catalyze has no responsibility or liability for the deletion or failure to store any Customer content and other communications maintained or transmitted through use of the Service.
-
----
-*Last Updated: May 15, 2014*
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
+<!-- xxxxxxxx -->
 
 
 # Privacy Policy
