@@ -367,7 +367,7 @@ Unplanned Outages | Maximum two (2) hours over a reference period of one (1) mon
 Exceptions to Availability | No period of Service degradation or inoperability will be included in calculating Availability to the extent caused by: <br /> (1) outages caused by the failure of public network or communications components; <br /> (2) Customer’s misuse of Services; including their Integrating Organizations or their Authorized Users; <br /> (3) unauthorized use or misuse by Customer or anyone using any of the Customer passwords, unless Customer has not taken industry standard steps to protect the Services from unauthorized access, intrusion, and disruption; <br /> (4) failures of Customer or any of its Authorized Users’ internet connectivity; <br /> (5) Scheduled Downtime as set forth above; <br /> (6) Force Majeure Event; <br /> (7) disabling, suspension or termination of the Services.
 
 ### 2.1 Customer Reporting
-Customer shall report any Service degradation or impaired ability to use the Services, included unscheduled system downtime and any Error to Catalyze’s maintenance email (support@catalyze.io) promptly, but not less than twenty-four (24 )hours upon becoming aware or receiving notice of such Service downtime, error, bug, or defect.
+Customer shall report any Service degradation or impaired ability to use the Services, included unscheduled system downtime and any Error to Catalyze’s maintenance email (support@catalyze.io) promptly, but not more than twenty-four (24) hours upon becoming aware or receiving notice of such Service downtime, error, bug, or defect.
 
 ### 2.1 Sole Remedies for Failure to Meet the Service Availability commitment
 For each calendar month in which a Service has Availability of:
