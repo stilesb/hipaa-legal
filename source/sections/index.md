@@ -417,7 +417,7 @@ Catalyze shall provide phone support during Business Hours.
 Catalyze shall correct all Service Errors in accordance with the Support Service Level Requirements as specified in Section 3.2.
 
 ### 4.4 Response and Resolution of Support Requests
-Catalyze shall respond to and resolve Support requests as specified in this Section 4. 
+Catalyze shall respond to and resolve Support requests as specified in this Section 4.
 
 ### 4.5 Conditions for providing support
 Catalyze’s obligation to provide support services is conditioned upon the following: (a) the Customer and, where applicable the  Integrating Organization, making reasonable efforts to solve the problem; and (b) the Customer and Integrating Organization providing Catalyze with reasonably sufficient information and resources to correct the problem as well as reasonable access to the personnel, hardware, and any additional systems involved in discovering and resolving the problem.
@@ -516,10 +516,10 @@ Catalyze reserves the right to use or disclose information provided if required 
 
 
 ## 7 Communications Preferences
-Catalyze offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@catalyze.com. Customers cannot opt out of receiving transactional emails related to their account with Catalyze or the Services.
+Catalyze offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@catalyze.io. Customers cannot opt out of receiving transactional emails related to their account with Catalyze or the Services.
 
 ## 8 Correcting and Updating Your Information
-Customers may update or change their registration information by logging in to their accounts at http://catalyze.com. Requests to access, change, or delete your information will be handled within 30 days.
+Customers may update or change their registration information by logging in to their accounts at https://catalyze.io. Requests to access, change, or delete your information will be handled within 30 days.
 
 ## 9 Security
 Catalyze uses appropriate administrative, technical, and physical security measures to protect Data About Catalyze Customers.
@@ -528,7 +528,7 @@ Catalyze uses appropriate administrative, technical, and physical security measu
 Catalyze reserves the right to change this Privacy Statement. Catalyze will provide notification of the material changes to this Privacy Statement through the Company’s Web site at least thirty (30) business days prior to the change taking effect.
 
 ## 11 Contacting Us
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@catalyze.com or by mailing Catalyze Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@catalyze.io or by mailing Catalyze Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
 
 ----
 *Last updated May 29th, 2014.*
