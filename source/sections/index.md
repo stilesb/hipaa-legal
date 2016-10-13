@@ -15,7 +15,7 @@ The Agreement is effective as of the time that Customer signs the form of Agreem
 
 “**Customer**” or “Catalyze Customer” means a current contractually bound customer of Catalyze.
 
-“**Customer Data**” means (a) any and all information, data, materials, works, expressions or other content, including any that are uploaded, submitted, posted, transferred, transmitted or otherwise provided or made available through Customer Application for processing by or through the Services, or (b) collected, downloaded or otherwise received by Provider on the Platform for Customer pursuant to this Agreement or any Service Order.
+“**Customer Content**” means information, however described, including patient data, submitted or received by Customer or End Users through the Services, including matter transmitted, processed, or stored by Catalyze in performing the Services or otherwise received by Catalyze under this Agreement.
 
 “**Customer Application**” shall mean the software or application that Customer uploads on Provider’s Services.
 
