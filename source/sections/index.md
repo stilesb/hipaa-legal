@@ -278,7 +278,7 @@ In addition to the General Terms and Conditions, your use of the Datica Backend 
 All BaaS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Datica Encryption Policies are outlined in detail [here][1].
 
 ## 3 Fees
-Subject to the Terms, the Backend as a Service (BaaS) is provided to you without charge up to certain usage limits. Usage over these limit requires the purchase of additional resources or services. The pricing for additional resources and services can be found at https://www.catalyze.io/backend-as-a-service/ (or such URL as Datica may provide)
+Subject to the Terms, the Backend as a Service (BaaS) is provided to you without charge up to certain usage limits. Usage over these limit requires the purchase of additional resources or services.
 
 *Last updated: 22nd May, 2014*
 
@@ -369,7 +369,7 @@ Unplanned Outages | Maximum two (2) hours over a reference period of one (1) mon
 Exceptions to Availability | No period of Service degradation or inoperability will be included in calculating Availability to the extent caused by: <br /> (1) outages caused by the failure of public network or communications components; <br /> (2) Customer’s misuse of Services; including their Integrating Organizations or their Authorized Users; <br /> (3) unauthorized use or misuse by Customer or anyone using any of the Customer passwords, unless Customer has not taken industry standard steps to protect the Services from unauthorized access, intrusion, and disruption; <br /> (4) failures of Customer or any of its Authorized Users’ internet connectivity; <br /> (5) Scheduled Downtime as set forth above; <br /> (6) Force Majeure Event; <br /> (7) disabling, suspension or termination of the Services.
 
 ### 2.1 Customer Reporting
-Customer shall report any Service degradation or impaired ability to use the Services, included unscheduled system downtime and any Error to Datica’s maintenance email (support@catalyze.io) promptly, but not more than twenty-four (24) hours upon becoming aware or receiving notice of such Service downtime, error, bug, or defect.
+Customer shall report any Service degradation or impaired ability to use the Services, included unscheduled system downtime and any Error to Datica’s maintenance email (support@datica.com) promptly, but not more than twenty-four (24) hours upon becoming aware or receiving notice of such Service downtime, error, bug, or defect.
 
 ### 2.1 Sole Remedies for Failure to Meet the Service Availability commitment
 For each calendar month in which a Service has Availability of:
@@ -450,7 +450,7 @@ For each twelve (12) month period in where Datica does not meet the above Initia
 Datica Health, Inc. (“Datica” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Datica's Web site privacy practices.
 
 ## 1 Web Site Covered
-This Privacy Statement covers the information practices of http://catalyze.io.
+This Privacy Statement covers the information practices of http://datica.com.
 
 ## 2 Information Collected
 
@@ -518,10 +518,10 @@ Datica reserves the right to use or disclose information provided if required by
 
 
 ## 7 Communications Preferences
-Datica offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@catalyze.io. Customers cannot opt out of receiving transactional emails related to their account with Datica or the Services.
+Datica offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@datica.com. Customers cannot opt out of receiving transactional emails related to their account with Datica or the Services.
 
 ## 8 Correcting and Updating Your Information
-Customers may update or change their registration information by logging in to their accounts at https://catalyze.io. Requests to access, change, or delete your information will be handled within 30 days.
+Customers may update or change their registration information by logging in to their accounts at https://datica.com. Requests to access, change, or delete your information will be handled within 30 days.
 
 ## 9 Security
 Datica uses appropriate administrative, technical, and physical security measures to protect Data About Datica Customers.
@@ -530,7 +530,7 @@ Datica uses appropriate administrative, technical, and physical security measure
 Datica reserves the right to change this Privacy Statement. Datica will provide notification of the material changes to this Privacy Statement through the Company’s Web site at least thirty (30) business days prior to the change taking effect.
 
 ## 11 Contacting Us
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@catalyze.io or by mailing Datica Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@datica.com or by mailing Datica Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
 
 ----
 *Last updated May 29th, 2014.*
@@ -538,11 +538,11 @@ Questions regarding this Privacy Statement or the information practices of the C
 
 *These policies are inspired by the policies of [Google App Engine][7] and [Heroku][8]. The original works have been modified. Datica is not affiliated with or sponsored by Google or Heroku.*
 
-[1]:	https://catalyze.io/policy/#data-integrity-policy
-[2]:	https://catalyze.io/policy/#data-integrity-policy
-[3]:	https://catalyze.io/policy/#auditing-policy
-[4]:	https://catalyze.io/policy/#applicable-standards-from-the-hipaa-security-rule91
-[5]:	https://catalyze.io/policy/#data-integrity-policy
+[1]:	https://policy.datica.com/#data-integrity-policy
+[2]:	https://policy.datica.com/#data-integrity-policy
+[3]:	https://policy.datica.com/#auditing-policy
+[4]:	https://policy.datica.com/#applicable-standards-from-the-hipaa-security-rule91
+[5]:	https://policy.datica.com/#data-integrity-policy
 [6]:	http://en.wikipedia.org/wiki/Local_shared_object
 [7]:	http://developers.google.com/appengine/terms
 [8]:	http://policy.heroku.com/
